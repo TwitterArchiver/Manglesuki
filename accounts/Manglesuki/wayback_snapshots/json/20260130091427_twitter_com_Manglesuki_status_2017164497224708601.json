@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "2017164497224708601",
+    "created_at": "2026-01-30T09:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T10:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017164497224708601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "488823839",
+          "start": 3,
+          "username": "taikongjile000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017164497224708601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015947751109153205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taikongjile000: 你在视奸我的时候 我也在视奸你 这不就是爱吗 直接找我结婚就可以了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "2017164497224708601",
+        "created_at": "2026-01-30T09:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T10:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017164497224708601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "488823839",
+              "start": 3,
+              "username": "taikongjile000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017164497224708601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015947751109153205",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taikongjile000: 你在视奸我的时候 我也在视奸你 这不就是爱吗 直接找我结婚就可以了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "488823839",
+        "conversation_id": "2015947751109153205",
+        "created_at": "2026-01-27T00:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T01:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015947751109153205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015947751109153205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1548,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你在视奸我的时候 我也在视奸你 这不就是爱吗 直接找我结婚就可以了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X 凯越450RR｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015477358627852288/p8pWpyfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 80,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 334
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-10T21:51:18.000Z",
+        "description": "一个老实本分的农民\n大麻/迷幻剂去污名合法化\n官网：https://t.co/yJOEtw5Bi3\n交流群：https://t.co/kaCNpFerhN\n备用号：@taikongjile001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "taikongjile001"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 49,
+                "expanded_url": "https://taikong.mom/",
+                "start": 26,
+                "url": "https://t.co/yJOEtw5Bi3"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 77,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 54,
+                "url": "https://t.co/kaCNpFerhN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 23,
+                "expanded_url": "https://taikong.mom/",
+                "start": 0,
+                "url": "https://t.co/yJOEtw5Bi3"
+              }
+            ]
+          }
+        },
+        "id": "488823839",
+        "location": "天国",
+        "name": "太空极乐百科",
+        "pinned_tweet_id": "2015675601815060786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015653690779271168/3qPtJUOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 152,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/yJOEtw5Bi3",
+        "username": "taikongjile000",
+        "verified": false
+      }
+    ]
+  }
+}

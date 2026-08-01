@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1914140524262592689",
+    "created_at": "2025-04-21T10:59:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T11:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914272834274365618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1882624452980269056",
+          "start": 0,
+          "username": "spectrumveil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914272834274365618",
+    "in_reply_to_user_id": "1882624452980269056",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914140524262592689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@spectrumveil yeeeeeee so high"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21640,
+        "height": 720,
+        "media_key": "7_1914140420625625088",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1914140420625625088/pu/img/jpT1vwsiT0fiYjn5.jpg",
+        "public_metrics": {
+          "view_count": 2396
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1914140420625625088/pu/vid/avc1/360x270/FEdA_3vEfI49coM7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1914140420625625088/pu/vid/avc1/480x360/LysBRasfTjtOV6BD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1914140420625625088/pu/vid/avc1/960x720/Z-iFfavAUxxxqAz6.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1914140420625625088/pu/pl/ErBSOwNL9MsxL4xU.m3u8?tag=12&v=bfd"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1914140524262592689",
+        "created_at": "2025-04-21T10:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T11:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914272834274365618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1882624452980269056",
+              "start": 0,
+              "username": "spectrumveil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914272834274365618",
+        "in_reply_to_user_id": "1882624452980269056",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914140524262592689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@spectrumveil yeeeeeee so high"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1914140420625625088"
+          ]
+        },
+        "author_id": "1882624452980269056",
+        "conversation_id": "1914140524262592689",
+        "created_at": "2025-04-21T02:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T03:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914140524262592689"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 66,
+              "normalized_text": "drugtwtlat",
+              "probability": 0.5505,
+              "start": 57,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 47,
+              "tag": "drugtwt"
+            },
+            {
+              "end": 67,
+              "start": 56,
+              "tag": "drugtwtlat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/drJDoYxM3b",
+              "end": 91,
+              "expanded_url": "https://x.com/spectrumveil/status/1914140524262592689/video/1",
+              "media_key": "7_1914140420625625088",
+              "start": 68,
+              "url": "https://t.co/drJDoYxM3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914140524262592689",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 5633,
+          "like_count": 298,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "Es de ayer pero hoy también quiero crikear 😓 ★ #drugtwt #drugtwtlat https://t.co/drJDoYxM3b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是owl/小鸮 女生 电音/调酒/插画/爬宠/游戏/cos  170cm/48kg\n请找我玩！",
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1908551051642610156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886054874858872832/SmNbn5fb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 41,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 34
+        },
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T03:01:28.000Z",
+        "description": "Adicto arrepentido da pena en Twitter ★ #drugtwt + #shtwt + #raventwt. he/him. ( @_lilithz_ 𖹭 )",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 40,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "tag": "raventwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "_lilithz_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ice74864",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ice74864",
+                "start": 0,
+                "url": "https://t.co/jWoHJ70o1O"
+              }
+            ]
+          }
+        },
+        "id": "1882624452980269056",
+        "location": "DNI: -15 & +25",
+        "name": "Mikael 🧊",
+        "pinned_tweet_id": "1886258605202280733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913689503983972352/N5hOHcIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1956,
+          "following_count": 622,
+          "like_count": 8318,
+          "listed_count": 4,
+          "media_count": 324,
+          "tweet_count": 4904
+        },
+        "url": "https://t.co/jWoHJ70o1O",
+        "username": "spectrumveil",
+        "verified": false
+      }
+    ]
+  }
+}

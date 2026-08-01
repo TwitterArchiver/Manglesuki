@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1983384399212396961",
+    "created_at": "2025-11-16T10:40:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T11:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990006951800193491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1253314369330515968",
+          "start": 0,
+          "username": "pangxin07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990006951800193491",
+    "in_reply_to_user_id": "1253314369330515968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989885846661861538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pangxin07 这不刷ecu也能200，极速230吧差不多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1983384399212396961",
+        "created_at": "2025-11-16T10:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T11:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990006951800193491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1253314369330515968",
+              "start": 0,
+              "username": "pangxin07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990006951800193491",
+        "in_reply_to_user_id": "1253314369330515968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989885846661861538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pangxin07 这不刷ecu也能200，极速230吧差不多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253314369330515968",
+        "conversation_id": "1983384399212396961",
+        "created_at": "2025-11-16T02:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T03:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989885846661861538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886054681635704832",
+              "start": 0,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989885846661861538",
+        "in_reply_to_user_id": "1886054681635704832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989874404244033695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Manglesuki 还是ecu的问题，我记得有人把春风700mtECU刷了能上两百"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/ADV摩托车主｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968414430628290560/1MKf2N9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 64,
+          "like_count": 294,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 246
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T13:26:59.000Z",
+        "description": "",
+        "id": "1253314369330515968",
+        "location": "Malstatt, Saarbrücken",
+        "name": "胖昕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1414238043557486599/ea7tt6nb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 239,
+          "like_count": 1067,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 392
+        },
+        "username": "pangxin07",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1967854505145536723",
+    "created_at": "2025-09-16T12:17:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T13:17:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967925773924491672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1561588899499196417",
+          "start": 0,
+          "username": "Tiandaidaidai"
+        },
+        {
+          "end": 28,
+          "id": "1960026902418321408",
+          "start": 15,
+          "username": "Drugs_Kitten"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967925773924491672",
+    "in_reply_to_user_id": "1561588899499196417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967854505145536723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tiandaidaidai @Drugs_Kitten 笑的难受有点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 694,
+        "media_key": "3_1967854496815648773",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G085PRxaEAUFmKR.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1967854505145536723",
+        "created_at": "2025-09-16T12:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T13:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967925773924491672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1561588899499196417",
+              "start": 0,
+              "username": "Tiandaidaidai"
+            },
+            {
+              "end": 28,
+              "id": "1960026902418321408",
+              "start": 15,
+              "username": "Drugs_Kitten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967925773924491672",
+        "in_reply_to_user_id": "1561588899499196417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967854505145536723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tiandaidaidai @Drugs_Kitten 笑的难受有点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967854496815648773"
+          ]
+        },
+        "author_id": "1561588899499196417",
+        "conversation_id": "1967854505145536723",
+        "created_at": "2025-09-16T07:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T08:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967854505145536723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OerAVOqyaF",
+              "end": 32,
+              "expanded_url": "https://x.com/Tiandaidaidai/status/1967854505145536723/photo/1",
+              "media_key": "3_1967854496815648773",
+              "start": 9,
+              "url": "https://t.co/OerAVOqyaF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967854505145536723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我串都不敢这么串 https://t.co/OerAVOqyaF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜女生｜药物百科小小编辑人员｜双相+边缘型人格障碍｜DJ/调酒师/王者代练/底层画画的/coser/机车ADV车主｜170cm/48kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87QHvr"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963352402972872704/wGuIt4SD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 61,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 132
+        },
+        "url": "https://t.co/iv2t87QHvr",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T05:39:42.000Z",
+        "description": "惨圈哦滴女/碎碎念/音游/恋爱日常  纯看黄男离我远点  LGBT+友好中🏳️‍🌈  宝宝@GHYYAYA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "GHYYAYA"
+              }
+            ]
+          }
+        },
+        "id": "1561588899499196417",
+        "name": "⊹天填甜田添恬黛⊹",
+        "pinned_tweet_id": "1960151865762701475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957106650416037888/UE_1QHNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1229,
+          "following_count": 1563,
+          "like_count": 57596,
+          "listed_count": 5,
+          "media_count": 514,
+          "tweet_count": 8184
+        },
+        "username": "Tiandaidaidai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T17:10:16.000Z",
+        "description": "💖你好，这里是小猫。｜药物百科副Wiki主｜有任何药物相关问题都可以私信免费咨询哦💕｜ 私信回fo｜谨慎关注里推:@CuteKittenO3O会有大量负能/药物使用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "CuteKittenO3O"
+              }
+            ]
+          }
+        },
+        "id": "1960026902418321408",
+        "name": "💊MediKitty🌌",
+        "pinned_tweet_id": "1967201521902535072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960036096215224320/DqeocQbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 152,
+          "like_count": 679,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 323
+        },
+        "username": "Drugs_Kitten",
+        "verified": false
+      }
+    ]
+  }
+}

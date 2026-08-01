@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "2046273532674601067",
+    "created_at": "2026-04-20T17:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T18:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046273532674601067"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046273532674601067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天抽的再也不想抽大麻了，草，虽然特别特别high啊但是太过量了刚开始咳死我了难受死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "2046273532674601067",
+        "created_at": "2026-04-20T17:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T18:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046273532674601067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046273532674601067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天抽的再也不想抽大麻了，草，虽然特别特别high啊但是太过量了刚开始咳死我了难受死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X 凯越450RR｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015477358627852288/p8pWpyfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 98,
+          "like_count": 462,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 436
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1935957072216256697",
+    "created_at": "2025-08-26T20:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T21:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960446268691648780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1256027090622640128",
+          "start": 0,
+          "username": "Higashikata_Bai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960446268691648780",
+    "in_reply_to_user_id": "1256027090622640128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935957072216256697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Higashikata_Bai 主人级别的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1935957068529221632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt3msloXQAAqmQk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1935957069141536768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt3msn6WcAAlUhi.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1935957068705353728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt3msmSW0AAibQV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1935957072216256697",
+        "created_at": "2025-08-26T20:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T21:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960446268691648780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1256027090622640128",
+              "start": 0,
+              "username": "Higashikata_Bai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960446268691648780",
+        "in_reply_to_user_id": "1256027090622640128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935957072216256697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Higashikata_Bai 主人级别的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935957068529221632",
+            "3_1935957069141536768",
+            "3_1935957068705353728"
+          ]
+        },
+        "author_id": "1256027090622640128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027933222",
+              "name": "Call of Duty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027933222",
+              "name": "Call of Duty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1935957072216256697",
+        "created_at": "2025-06-20T07:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T08:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935957072216256697"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "战术"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "覆面"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "覆面系"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "肌肉"
+            },
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "cod"
+            },
+            {
+              "end": 37,
+              "start": 30,
+              "tag": "Keegan"
+            },
+            {
+              "end": 44,
+              "start": 38,
+              "tag": "ghost"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IJe13ph1lV",
+              "end": 68,
+              "expanded_url": "https://x.com/Higashikata_Bai/status/1935957072216256697/photo/1",
+              "media_key": "3_1935957068529221632",
+              "start": 45,
+              "url": "https://t.co/IJe13ph1lV"
+            },
+            {
+              "display_url": "pic.x.com/IJe13ph1lV",
+              "end": 68,
+              "expanded_url": "https://x.com/Higashikata_Bai/status/1935957072216256697/photo/1",
+              "media_key": "3_1935957069141536768",
+              "start": 45,
+              "url": "https://t.co/IJe13ph1lV"
+            },
+            {
+              "display_url": "pic.x.com/IJe13ph1lV",
+              "end": 68,
+              "expanded_url": "https://x.com/Higashikata_Bai/status/1935957072216256697/photo/1",
+              "media_key": "3_1935957068705353728",
+              "start": 45,
+              "url": "https://t.co/IJe13ph1lV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935957072216256697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2731,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "整点战术覆面了 ＃战术 ＃覆面 ＃覆面系 ＃肌肉 ＃cod ＃Keegan ＃ghost https://t.co/IJe13ph1lV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮 女生 电音/调酒/插画/爬宠/游戏/cos  170cm/48kg\n请找我玩！",
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886054874858872832/SmNbn5fb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 51,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 75
+        },
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-01T01:06:15.000Z",
+        "description": "drug poison\nERP Like \n生理男 会发三次图 \n二次元Coser CV \n都🉑\n原名higashikata_bai",
+        "id": "1256027090622640128",
+        "location": "HangZhou",
+        "name": "白毒",
+        "pinned_tweet_id": "1935957072216256697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957348152731893761/46RuIW1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 231,
+          "like_count": 1856,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 391
+        },
+        "username": "Higashikata_Bai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1997411361647951921",
+    "created_at": "2025-12-23T12:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T13:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003440994080248132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1980934860509507584",
+          "start": 0,
+          "username": "lizi2075139"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003440994080248132",
+    "in_reply_to_user_id": "1980934860509507584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997411361647951921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizi2075139 抱抱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 68645,
+        "height": 1280,
+        "media_key": "7_1997411239384006656",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1997411239384006656/pu/img/40LXPtJ1u9KWLV1P.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997411239384006656/pu/vid/avc1/320x568/xFGOaKkhIn8FmA39.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997411239384006656/pu/vid/avc1/480x852/yGNrb0fFVCX0LD6o.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997411239384006656/pu/vid/avc1/720x1280/RwcMg7aNMF4EEp3D.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1997411239384006656/pu/pl/pxsq8G4eSK-u4GMO.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1997411361647951921",
+        "created_at": "2025-12-23T12:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T13:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003440994080248132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1980934860509507584",
+              "start": 0,
+              "username": "lizi2075139"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003440994080248132",
+        "in_reply_to_user_id": "1980934860509507584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997411361647951921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizi2075139 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1997411239384006656"
+          ]
+        },
+        "author_id": "1980934860509507584",
+        "conversation_id": "1997411361647951921",
+        "created_at": "2025-12-06T21:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T22:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997411361647951921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l6cvsVtqoq",
+              "end": 23,
+              "expanded_url": "https://x.com/lizi2075139/status/1997411361647951921/video/1",
+              "media_key": "7_1997411239384006656",
+              "start": 0,
+              "url": "https://t.co/l6cvsVtqoq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997411361647951921",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/l6cvsVtqoq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X 凯越450RR｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968414430628290560/1MKf2N9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 80,
+          "like_count": 345,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 314
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T09:51:18.000Z",
+        "description": "这个世界崩坏了",
+        "id": "1980934860509507584",
+        "name": "坏习惯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980934981859127296/qyV8GZ2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 11,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 11
+        },
+        "username": "lizi2075139",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "2074052564832903312",
+    "created_at": "2026-07-06T08:50:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074053251679559918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "68868234",
+          "start": 0,
+          "username": "Ne1lHeyw00d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074053251679559918",
+    "in_reply_to_user_id": "68868234",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074053159648150002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ne1lHeyw00d 中哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "2074052564832903312",
+        "created_at": "2026-07-06T08:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074053251679559918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "68868234",
+              "start": 0,
+              "username": "Ne1lHeyw00d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074053251679559918",
+        "in_reply_to_user_id": "68868234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074053159648150002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ne1lHeyw00d 中哥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "68868234",
+        "conversation_id": "2074052564832903312",
+        "created_at": "2026-07-06T08:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074053159648150002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886054681635704832",
+              "start": 0,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074053159648150002",
+        "in_reply_to_user_id": "1886054681635704832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074052564832903312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Manglesuki 你原来一直不知道马鹏宇没事吗？人家是不敢贩毒了。假死脱个身。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科wiki主@yaowubaike｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "yaowubaike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87QHvr"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015477358627852288/p8pWpyfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 106,
+          "like_count": 525,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 486
+        },
+        "url": "https://t.co/iv2t87QHvr",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-26T01:46:00.000Z",
+        "description": "流浪汉族 接受付费咨询 药理学 用药咨询 用药建议 毒理学、药理学、精神疾病学相关研究  前工人吧吧主 结晶化捧杀者 键政荣誉证书获得者 有无犯罪记录 是 目前在海外研究伊博格草对人类大脑清空成瘾性的视线   \n攒钱起诉派出所中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/babycost",
+                "end": 23,
+                "expanded_url": "http://t.me/babycost",
+                "start": 0,
+                "url": "https://t.co/a0nGHzpVaD"
+              }
+            ]
+          }
+        },
+        "id": "68868234",
+        "location": "ip：外国",
+        "name": "The Red Devils（上访中）",
+        "pinned_tweet_id": "2062591615802474584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070081285587152896/RvUcBq3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 33,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 541
+        },
+        "url": "https://t.co/a0nGHzpVaD",
+        "username": "Ne1lHeyw00d",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1996632430036635741",
+    "created_at": "2025-12-06T03:16:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T04:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997142991853765026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1836276354041495553",
+          "start": 0,
+          "username": "CABR_Lies"
+        },
+        {
+          "end": 27,
+          "id": "1477257510482739202",
+          "start": 11,
+          "username": "mmmmmmm58428971"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997142991853765026",
+    "in_reply_to_user_id": "1836276354041495553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997135153684951103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CABR_Lies @mmmmmmm58428971 他本来就有很严重的肺炎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1996632430036635741",
+        "created_at": "2025-12-06T03:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T04:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997142991853765026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1836276354041495553",
+              "start": 0,
+              "username": "CABR_Lies"
+            },
+            {
+              "end": 27,
+              "id": "1477257510482739202",
+              "start": 11,
+              "username": "mmmmmmm58428971"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997142991853765026",
+        "in_reply_to_user_id": "1836276354041495553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997135153684951103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CABR_Lies @mmmmmmm58428971 他本来就有很严重的肺炎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836276354041495553",
+        "conversation_id": "1996632430036635741",
+        "created_at": "2025-12-06T02:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T03:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997135153684951103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886054681635704832",
+              "start": 0,
+              "username": "Manglesuki"
+            },
+            {
+              "end": 28,
+              "id": "1477257510482739202",
+              "start": 12,
+              "username": "mmmmmmm58428971"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997135153684951103",
+        "in_reply_to_user_id": "1886054681635704832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996895306945122475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Manglesuki @mmmmmmm58428971 医护干什么吃的？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X 凯越450RR｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968414430628290560/1MKf2N9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 76,
+          "like_count": 330,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 297
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T05:29:42.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️营业右上角搜索 #shtwt #drugtwt｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕷𝖚𝖛 𝖑𝖎𝖐𝖊 𝖗𝖔𝖈𝖐 𝖗𝖔𝖑𝖑 @Pardon_Love_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 58,
+                "tag": "shtwt"
+              },
+              {
+                "end": 73,
+                "start": 65,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "Pardon_Love_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/Esh7BcF",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/Esh7BcF",
+                "start": 0,
+                "url": "https://t.co/sFJNxGT4fs"
+              }
+            ]
+          }
+        },
+        "id": "1836276354041495553",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "1869201059912282381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996746466740609024/3kFgZiE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4594,
+          "following_count": 162,
+          "like_count": 24101,
+          "listed_count": 8,
+          "media_count": 972,
+          "tweet_count": 13039
+        },
+        "url": "https://t.co/sFJNxGT4fs",
+        "username": "CABR_Lies",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T12:37:26.000Z",
+        "description": "01年大龄MTF / hrt：2025.10.25 / 计算机从业 / 立场为中间派,反对极端粉红和极端支黑 / 立志在28年之前做srs和ffs并改证",
+        "id": "1477257510482739202",
+        "name": "🍥猫猫猫猫🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994786291763089416/gkiMGygW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 248,
+          "like_count": 12411,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 93
+        },
+        "username": "mmmmmmm58428971",
+        "verified": true
+      }
+    ]
+  }
+}

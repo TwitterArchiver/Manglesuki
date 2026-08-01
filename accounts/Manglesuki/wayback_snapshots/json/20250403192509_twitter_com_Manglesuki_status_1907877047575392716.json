@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1661068409046552576"
+      ],
+      "media_source_tweet_id": [
+        "1661068424653488135"
+      ]
+    },
+    "author_id": "1886054681635704832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1337208313847562240",
+          "name": "The Evil Dead"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1337208313847562240",
+          "name": "The Evil Dead"
+        }
+      }
+    ],
+    "conversation_id": "1907877047575392716",
+    "created_at": "2025-04-03T19:25:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T20:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907877047575392716"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "EVIL DEAD RISE",
+          "probability": 0.8247,
+          "start": 20,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1403120401199341571",
+          "start": 3,
+          "username": "horrorsthetics"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iGCS6Lthkd",
+          "end": 66,
+          "expanded_url": "https://x.com/xsinderellah/status/1661068424653488135/photo/1",
+          "media_key": "16_1661068409046552576",
+          "start": 43,
+          "url": "https://t.co/iGCS6Lthkd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907877047575392716",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907872859336106366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @horrorsthetics: EVIL DEAD RISE (2023)\n https://t.co/iGCS6Lthkd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 384,
+        "media_key": "16_1661068409046552576",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Fw1M6tTX0AA79-F.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Fw1M6tTX0AA79-F.mp4"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1661068409046552576"
+          ],
+          "media_source_tweet_id": [
+            "1661068424653488135"
+          ]
+        },
+        "author_id": "1886054681635704832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1337208313847562240",
+              "name": "The Evil Dead"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337208313847562240",
+              "name": "The Evil Dead"
+            }
+          }
+        ],
+        "conversation_id": "1907877047575392716",
+        "created_at": "2025-04-03T19:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T20:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907877047575392716"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "EVIL DEAD RISE",
+              "probability": 0.8247,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1403120401199341571",
+              "start": 3,
+              "username": "horrorsthetics"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iGCS6Lthkd",
+              "end": 66,
+              "expanded_url": "https://x.com/xsinderellah/status/1661068424653488135/photo/1",
+              "media_key": "16_1661068409046552576",
+              "start": 43,
+              "url": "https://t.co/iGCS6Lthkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907877047575392716",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907872859336106366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @horrorsthetics: EVIL DEAD RISE (2023)\n https://t.co/iGCS6Lthkd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1661068409046552576"
+          ],
+          "media_source_tweet_id": [
+            "1661068424653488135"
+          ]
+        },
+        "author_id": "1403120401199341571",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1337208313847562240",
+              "name": "The Evil Dead"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337208313847562240",
+              "name": "The Evil Dead"
+            }
+          }
+        ],
+        "conversation_id": "1907872859336106366",
+        "created_at": "2025-04-03T19:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T20:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907872859336106366"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "EVIL DEAD RISE",
+              "probability": 0.8727,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iGCS6Lthkd",
+              "end": 46,
+              "expanded_url": "https://x.com/xsinderellah/status/1661068424653488135/photo/1",
+              "media_key": "16_1661068409046552576",
+              "start": 23,
+              "url": "https://t.co/iGCS6Lthkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907872859336106366",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1004,
+          "like_count": 48,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "EVIL DEAD RISE (2023)\n https://t.co/iGCS6Lthkd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是owl/小鸮 泛性恋 \n电音/调酒/插画/爬宠 170/48kg\n请喜欢我！",
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1905146386305433824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886054874858872832/SmNbn5fb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 27,
+          "like_count": 12,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 10
+        },
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-10T22:42:41.000Z",
+        "description": "• she who hangs out a lot in cemeteries ⚰️ • 𝐞𝐧𝐭𝐞𝐫 𝐚𝐭 𝐲𝐨𝐮𝐫 𝐨𝐰𝐧 𝐫𝐢𝐬𝐤! • follow if you 🖤 daily 𝗰𝗼𝗻𝘁𝗲𝗻𝘁 🦇 • (nsfw) • keep lurking, kira",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/horrorsthetics",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/horrorsthetics",
+                "start": 0,
+                "url": "https://t.co/I0X0fbQILB"
+              }
+            ]
+          }
+        },
+        "id": "1403120401199341571",
+        "location": "your local cemetery | 18+ ",
+        "name": "𝐭𝐡𝐞 𝐯𝐚𝐦𝐩𝐢𝐫𝐚 𝐬𝐡𝐨𝐰 🪦",
+        "pinned_tweet_id": "1902567102675894375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762175283107442688/OqmBIgEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227318,
+          "following_count": 2833,
+          "like_count": 35026,
+          "listed_count": 399,
+          "media_count": 14536,
+          "tweet_count": 21337
+        },
+        "url": "https://t.co/I0X0fbQILB",
+        "username": "horrorsthetics",
+        "verified": true
+      }
+    ]
+  }
+}

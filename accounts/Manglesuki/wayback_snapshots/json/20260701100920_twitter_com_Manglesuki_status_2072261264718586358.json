@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072261255822557184"
+      ]
+    },
+    "author_id": "1886054681635704832",
+    "conversation_id": "2072261264718586358",
+    "created_at": "2026-07-01T10:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T11:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072261264718586358"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Uq0ln2eMph",
+          "end": 26,
+          "expanded_url": "https://x.com/Manglesuki/status/2072261264718586358/photo/1",
+          "media_key": "3_2072261255822557184",
+          "start": 3,
+          "url": "https://t.co/Uq0ln2eMph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072261264718586358",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "眉钉 https://t.co/Uq0ln2eMph"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2072261255822557184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMImogMbwAAv82v.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072261255822557184"
+          ]
+        },
+        "author_id": "1886054681635704832",
+        "conversation_id": "2072261264718586358",
+        "created_at": "2026-07-01T10:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072261264718586358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uq0ln2eMph",
+              "end": 26,
+              "expanded_url": "https://x.com/Manglesuki/status/2072261264718586358/photo/1",
+              "media_key": "3_2072261255822557184",
+              "start": 3,
+              "url": "https://t.co/Uq0ln2eMph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072261264718586358",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "眉钉 https://t.co/Uq0ln2eMph"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科wiki主@yaowubaike｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "yaowubaike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87QHvr"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015477358627852288/p8pWpyfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 103,
+          "like_count": 517,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 477
+        },
+        "url": "https://t.co/iv2t87QHvr",
+        "username": "Manglesuki",
+        "verified": false
+      }
+    ]
+  }
+}

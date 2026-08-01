@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "2049654883054489944",
+    "created_at": "2026-05-06T16:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T17:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052062818191688014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2037004701955448832",
+          "start": 0,
+          "username": "liyu454144"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052062818191688014",
+    "in_reply_to_user_id": "2037004701955448832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049654883054489944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liyu454144 布雷博牛逼！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "2049654883054489944",
+        "created_at": "2026-05-06T16:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052062818191688014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2037004701955448832",
+              "start": 0,
+              "username": "liyu454144"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052062818191688014",
+        "in_reply_to_user_id": "2037004701955448832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049654883054489944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liyu454144 布雷博牛逼！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037004701955448832",
+        "conversation_id": "2049654883054489944",
+        "created_at": "2026-04-30T00:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T01:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049654883054489944"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049654883054489944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要换布雷博\n布雷博牛逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X 凯越450RR｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87QHvr"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015477358627852288/p8pWpyfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 98,
+          "like_count": 499,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 470
+        },
+        "url": "https://t.co/iv2t87QHvr",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-26T03:12:37.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me//liyu454114",
+                "end": 23,
+                "expanded_url": "http://t.me//liyu454114",
+                "start": 0,
+                "url": "https://t.co/63eU2cCHg2"
+              }
+            ]
+          }
+        },
+        "id": "2037004701955448832",
+        "name": "璃雨",
+        "pinned_tweet_id": "2037050916109693290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037030483658477568/dexsNk3i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 138,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 102
+        },
+        "url": "https://t.co/63eU2cCHg2",
+        "username": "liyu454144",
+        "verified": false
+      }
+    ]
+  }
+}

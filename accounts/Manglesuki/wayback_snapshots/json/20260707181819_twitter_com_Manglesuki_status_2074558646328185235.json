@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "2074200783822975086",
+    "created_at": "2026-07-07T18:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T19:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074558646328185235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971306941931753472",
+          "start": 0,
+          "username": "hulixunlei"
+        },
+        {
+          "end": 23,
+          "id": "1693423852687368192",
+          "start": 12,
+          "username": "JJBOND7890"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074558646328185235",
+    "in_reply_to_user_id": "1971306941931753472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074501627382468847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hulixunlei @JJBOND7890 我去，学习了！注意身体哇，谢谢你很认真的回我这么多，祝你用药开心哇永远不bad！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "2074200783822975086",
+        "created_at": "2026-07-07T18:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074558646328185235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971306941931753472",
+              "start": 0,
+              "username": "hulixunlei"
+            },
+            {
+              "end": 23,
+              "id": "1693423852687368192",
+              "start": 12,
+              "username": "JJBOND7890"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074558646328185235",
+        "in_reply_to_user_id": "1971306941931753472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074501627382468847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hulixunlei @JJBOND7890 我去，学习了！注意身体哇，谢谢你很认真的回我这么多，祝你用药开心哇永远不bad！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971306941931753472",
+        "conversation_id": "2074200783822975086",
+        "created_at": "2026-07-07T14:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074501627382468847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1693423852687368192",
+              "start": 0,
+              "username": "JJBOND7890"
+            },
+            {
+              "end": 23,
+              "id": "1886054681635704832",
+              "start": 12,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074501627382468847",
+        "in_reply_to_user_id": "1693423852687368192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074420267577975205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JJBOND7890 @Manglesuki 有一次别人给了我一把假的，目测有四分之一个奥利奥饼干那么多，让我一口气全吃了，我当时还用了l，我直接跳舞十四个小时多，而且必须派对舞池换着位置跳，要不然就头晕恶心想吐，太傻逼了，挺好玩的，但是玩一次就够了 太累了，停不下来太累了，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科wiki主@yaowubaike｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "yaowubaike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87QHvr"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015477358627852288/p8pWpyfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 106,
+          "like_count": 533,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 492
+        },
+        "url": "https://t.co/iv2t87QHvr",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T20:13:08.000Z",
+        "description": "",
+        "id": "1971306941931753472",
+        "name": "活力迅雷",
+        "pinned_tweet_id": "2057508198836535733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971307001989955584/4ImWLrAM_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 217,
+          "like_count": 861,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "hulixunlei",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T00:44:57.000Z",
+        "description": "",
+        "id": "1693423852687368192",
+        "name": "JJBOND",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693424177741705216/hjEdHh1__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 553,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "JJBOND7890",
+        "verified": false
+      }
+    ]
+  }
+}

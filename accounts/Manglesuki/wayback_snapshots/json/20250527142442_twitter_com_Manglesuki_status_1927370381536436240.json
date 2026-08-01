@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1926708739689566274",
+    "created_at": "2025-05-27T14:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T15:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927370381536436240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1256027090622640128",
+          "start": 0,
+          "username": "Higashikata_Bai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927370381536436240",
+    "in_reply_to_user_id": "1256027090622640128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926708739689566274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Higashikata_Bai 你好 我吃一口"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926708735285555200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr0LYvhWcAAM-Ej.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1926708735591776257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr0LYwqXAAERksd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1926708739689566274",
+        "created_at": "2025-05-27T14:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T15:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927370381536436240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1256027090622640128",
+              "start": 0,
+              "username": "Higashikata_Bai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927370381536436240",
+        "in_reply_to_user_id": "1256027090622640128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926708739689566274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Higashikata_Bai 你好 我吃一口"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926708735285555200",
+            "3_1926708735591776257"
+          ]
+        },
+        "author_id": "1256027090622640128",
+        "conversation_id": "1926708739689566274",
+        "created_at": "2025-05-25T18:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T19:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926708739689566274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FzULs8NIBN",
+              "end": 30,
+              "expanded_url": "https://x.com/Higashikata_Bai/status/1926708739689566274/photo/1",
+              "media_key": "3_1926708735285555200",
+              "start": 7,
+              "url": "https://t.co/FzULs8NIBN"
+            },
+            {
+              "display_url": "pic.x.com/FzULs8NIBN",
+              "end": 30,
+              "expanded_url": "https://x.com/Higashikata_Bai/status/1926708739689566274/photo/1",
+              "media_key": "3_1926708735591776257",
+              "start": 7,
+              "url": "https://t.co/FzULs8NIBN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926708739689566274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是不是太骚了 https://t.co/FzULs8NIBN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮 女生 养了只渡鸦叫Voxx 电音/调酒/插画/爬宠/游戏/cos  170cm/48kg\n请找我玩！",
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1923386059213181248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886054874858872832/SmNbn5fb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 45,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 57
+        },
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-01T01:06:15.000Z",
+        "description": "drug poison\nERP Like \n皮下男 会发三次图 \n二次元Coser CV \n都🉑",
+        "id": "1256027090622640128",
+        "location": "Zhejiang",
+        "name": "Higashikta_Bai",
+        "pinned_tweet_id": "1910008376375009753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920461424372940800/w6Txsy4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 363,
+          "like_count": 1458,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 276
+        },
+        "username": "Higashikata_Bai",
+        "verified": false
+      }
+    ]
+  }
+}

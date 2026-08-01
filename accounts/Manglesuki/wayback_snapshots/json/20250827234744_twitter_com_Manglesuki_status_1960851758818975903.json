@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1960851758818975903",
+    "created_at": "2025-08-27T23:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T00:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960851758818975903"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1960851758818975903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "戒断反应要杀了我了 重度焦虑 极其的惊恐 睡觉被吓醒好几回 心脏砰砰砰跳的飞快每次被吓醒我都觉得我要猝死了 妈的\n尝试一下用丙戊酸镁反制一下戒断 劳拉西泮缓解焦虑症状"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1960851758818975903",
+        "created_at": "2025-08-27T23:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T00:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960851758818975903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960851758818975903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "戒断反应要杀了我了 重度焦虑 极其的惊恐 睡觉被吓醒好几回 心脏砰砰砰跳的飞快每次被吓醒我都觉得我要猝死了 妈的\n尝试一下用丙戊酸镁反制一下戒断 劳拉西泮缓解焦虑症状"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮 女生 电音/调酒/插画/爬宠/游戏/cos  170cm/48kg\n请找我玩！",
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886054874858872832/SmNbn5fb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 52,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 79
+        },
+        "username": "Manglesuki",
+        "verified": false
+      }
+    ]
+  }
+}

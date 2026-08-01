@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1907874925232398735",
+    "created_at": "2025-04-03T19:21:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T20:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907876231472885792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1467368317258248192",
+          "start": 0,
+          "username": "loolzaozmin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907876231472885792",
+    "in_reply_to_user_id": "1467368317258248192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907874925232398735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loolzaozmin 妈呀摸摸……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1907874893406023683",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnoiG3FaMAMXMLF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1907874925232398735",
+        "created_at": "2025-04-03T19:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T20:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907876231472885792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1467368317258248192",
+              "start": 0,
+              "username": "loolzaozmin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907876231472885792",
+        "in_reply_to_user_id": "1467368317258248192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907874925232398735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loolzaozmin 妈呀摸摸……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907874893406023683"
+          ]
+        },
+        "author_id": "1467368317258248192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1907874925232398735",
+        "created_at": "2025-04-03T19:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T20:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907874925232398735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XmD6QhJWjS",
+              "end": 23,
+              "expanded_url": "https://x.com/loolzaozmin/status/1907874925232398735/photo/1",
+              "media_key": "3_1907874893406023683",
+              "start": 0,
+              "url": "https://t.co/XmD6QhJWjS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907874925232398735",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XmD6QhJWjS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是owl/小鸮 泛性恋 \n电音/调酒/插画/爬宠 170/48kg\n请喜欢我！",
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1905146386305433824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886054874858872832/SmNbn5fb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 27,
+          "like_count": 12,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 9
+        },
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T05:40:54.000Z",
+        "description": "撒旦之子｜非二元｜多个人格",
+        "id": "1467368317258248192",
+        "location": "门 666  接线下纯绿",
+        "name": "小藻",
+        "pinned_tweet_id": "1762362069909987403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879431026067521536/DL95lh-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14265,
+          "following_count": 198,
+          "like_count": 645,
+          "listed_count": 19,
+          "media_count": 150,
+          "tweet_count": 321
+        },
+        "username": "loolzaozmin",
+        "verified": false
+      }
+    ]
+  }
+}

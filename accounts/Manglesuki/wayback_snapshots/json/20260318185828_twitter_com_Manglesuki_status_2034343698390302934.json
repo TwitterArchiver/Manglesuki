@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "2034343311348253083",
+    "created_at": "2026-03-18T18:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T19:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034343698390302934"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034343698390302934",
+    "in_reply_to_user_id": "1886054681635704832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034343311348253083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "叠个甲：我只是觉得这个视频特别搞笑，没对跨有任何恶意，也欢迎宝宝们来找我玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60348,
+        "height": 720,
+        "media_key": "7_2034343264862748672",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2034343264862748672/pu/img/f_i-92XLrRJNJmoj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2034343264862748672/pu/vid/avc1/272x270/U80bb8MegX4LEIFX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2034343264862748672/pu/vid/avc1/364x360/22uNwtRBfpMez258.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2034343264862748672/pu/vid/avc1/730x720/PyDvnAmQSVEjAgyi.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2034343264862748672/pu/pl/KJf_Z4YNd0t87_6r.m3u8?tag=12"
+          }
+        ],
+        "width": 730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "2034343311348253083",
+        "created_at": "2026-03-18T18:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T19:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034343698390302934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034343698390302934",
+        "in_reply_to_user_id": "1886054681635704832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034343311348253083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "叠个甲：我只是觉得这个视频特别搞笑，没对跨有任何恶意，也欢迎宝宝们来找我玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2034343264862748672"
+          ]
+        },
+        "author_id": "1886054681635704832",
+        "conversation_id": "2034343311348253083",
+        "created_at": "2026-03-18T18:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T19:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034343311348253083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qcIIbtG8eZ",
+              "end": 23,
+              "expanded_url": "https://x.com/Manglesuki/status/2034343311348253083/video/1",
+              "media_key": "7_2034343264862748672",
+              "start": 0,
+              "url": "https://t.co/qcIIbtG8eZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034343311348253083",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qcIIbtG8eZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X 凯越450RR｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015477358627852288/p8pWpyfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 87,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 376
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      }
+    ]
+  }
+}

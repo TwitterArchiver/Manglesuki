@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "2074200783822975086",
+    "created_at": "2026-07-07T10:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T11:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074434826137116987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971306941931753472",
+          "start": 0,
+          "username": "hulixunlei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074434826137116987",
+    "in_reply_to_user_id": "1971306941931753472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074244682687868956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hulixunlei 尿检板上检出来是阳的，但是估计是掺了东西的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "2074200783822975086",
+        "created_at": "2026-07-07T10:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074434826137116987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971306941931753472",
+              "start": 0,
+              "username": "hulixunlei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074434826137116987",
+        "in_reply_to_user_id": "1971306941931753472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074244682687868956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hulixunlei 尿检板上检出来是阳的，但是估计是掺了东西的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971306941931753472",
+        "conversation_id": "2074200783822975086",
+        "created_at": "2026-07-06T21:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T22:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074244682687868956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886054681635704832",
+              "start": 0,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074244682687868956",
+        "in_reply_to_user_id": "1886054681635704832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074200783822975086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Manglesuki mdma口服的假的很多，100mg这个量肯定参杂了很多东西，纯mdma一次0.05g -0.1g就够了，多了就high失忆了，假mdma咬牙，摇头更厉害，停不下来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科wiki主@yaowubaike｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "yaowubaike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87QHvr"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015477358627852288/p8pWpyfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 106,
+          "like_count": 530,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 491
+        },
+        "url": "https://t.co/iv2t87QHvr",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T20:13:08.000Z",
+        "description": "",
+        "id": "1971306941931753472",
+        "name": "活力迅雷",
+        "pinned_tweet_id": "2057508198836535733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971307001989955584/4ImWLrAM_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 216,
+          "like_count": 854,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "hulixunlei",
+        "verified": false
+      }
+    ]
+  }
+}

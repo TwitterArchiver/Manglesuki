@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1965393189428441583",
+    "created_at": "2025-11-17T04:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T05:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990271110978654428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1617168733956616196",
+          "start": 0,
+          "username": "jiwibih1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990271110978654428",
+    "in_reply_to_user_id": "1617168733956616196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965393189428441583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiwibih1 宝宝不要，抱抱你🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1544,
+        "media_key": "3_1965393174870085632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Z6rfAb0AA4L39.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1965393189428441583",
+        "created_at": "2025-11-17T04:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T05:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990271110978654428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1617168733956616196",
+              "start": 0,
+              "username": "jiwibih1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990271110978654428",
+        "in_reply_to_user_id": "1617168733956616196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965393189428441583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiwibih1 宝宝不要，抱抱你🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965393174870085632"
+          ]
+        },
+        "author_id": "1617168733956616196",
+        "conversation_id": "1965393189428441583",
+        "created_at": "2025-09-09T12:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T13:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965393189428441583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lw1YtHymUI",
+              "end": 78,
+              "expanded_url": "https://x.com/jiwibih1/status/1965393189428441583/photo/1",
+              "media_key": "3_1965393174870085632",
+              "start": 55,
+              "url": "https://t.co/Lw1YtHymUI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965393189428441583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想試試看傳說中的致死劑量……\n根據中國那邊1t0.4mg來看，我只需要吃8t以上的1mg就能升天了對吧…… https://t.co/Lw1YtHymUI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/ADV摩托车主｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968414430628290560/1MKf2N9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 65,
+          "like_count": 297,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 250
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T14:34:18.000Z",
+        "description": "心理辅导小组成员，提供免费咨商/INFP/HSP/\nBD/GAD/GD(MTF)/疑PTSD/疑BPD/\nOverdose/kill myself/Self-harm",
+        "id": "1617168733956616196",
+        "name": "茜崎夢羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950925948184072192/ac5a6GUq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 614,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 102
+        },
+        "username": "jiwibih1",
+        "verified": false
+      }
+    ]
+  }
+}

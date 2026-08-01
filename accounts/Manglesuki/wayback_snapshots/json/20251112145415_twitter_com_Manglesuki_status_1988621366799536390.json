@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1988513744507293894",
+    "created_at": "2025-11-12T14:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T15:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988621366799536390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1688899432534958080",
+          "start": 0,
+          "username": "1_ymchi030tsuto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988621366799536390",
+    "in_reply_to_user_id": "1688899432534958080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988557564750229545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1_ymchi030tsuto 我喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1988513744507293894",
+        "created_at": "2025-11-12T14:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T15:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988621366799536390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1688899432534958080",
+              "start": 0,
+              "username": "1_ymchi030tsuto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988621366799536390",
+        "in_reply_to_user_id": "1688899432534958080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988557564750229545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1_ymchi030tsuto 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688899432534958080",
+        "conversation_id": "1988513744507293894",
+        "created_at": "2025-11-12T10:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988557564750229545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886054681635704832",
+              "start": 0,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988557564750229545",
+        "in_reply_to_user_id": "1886054681635704832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988513744507293894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Manglesuki 小鸮漂亮漂亮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/ADV摩托车主｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968414430628290560/1MKf2N9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 65,
+          "like_count": 283,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 228
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T13:06:25.000Z",
+        "description": "堕落自负 你们的脑子还好用吗？",
+        "id": "1688899432534958080",
+        "location": "寂静岭",
+        "name": "14rinnnmx",
+        "pinned_tweet_id": "1899028237810086057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978421160003153920/cVACoZP9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 199,
+          "like_count": 481,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 479
+        },
+        "username": "1_ymchi030tsuto",
+        "verified": false
+      }
+    ]
+  }
+}

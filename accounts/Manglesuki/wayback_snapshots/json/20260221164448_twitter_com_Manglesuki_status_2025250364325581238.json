@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "2024725681821868236",
+    "created_at": "2026-02-21T16:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T17:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025250364325581238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1695261042933428225",
+          "start": 0,
+          "username": "MaryBailey22870"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025250364325581238",
+    "in_reply_to_user_id": "1695261042933428225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025249838636388625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaryBailey22870 tr300好车啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "2024725681821868236",
+        "created_at": "2026-02-21T16:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T17:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025250364325581238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1695261042933428225",
+              "start": 0,
+              "username": "MaryBailey22870"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025250364325581238",
+        "in_reply_to_user_id": "1695261042933428225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025249838636388625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaryBailey22870 tr300好车啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695261042933428225",
+        "conversation_id": "2024725681821868236",
+        "created_at": "2026-02-21T16:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T17:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025249838636388625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886054681635704832",
+              "start": 0,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2025249838636388625",
+        "in_reply_to_user_id": "1886054681635704832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025248217068388797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Manglesuki 哈哈😃，我更惨家里不让买我偷着买了一个，快一年了不敢跟家里说，我没骑过ADV，我感觉巡航好骑所以我就买了个TR300骑着玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X 凯越450RR｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015477358627852288/p8pWpyfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 82,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 345
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T02:25:40.000Z",
+        "description": "无",
+        "id": "1695261042933428225",
+        "location": "中国",
+        "name": "錒巴帆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024204398008631298/2xiGnq_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 493
+        },
+        "username": "MaryBailey22870",
+        "verified": false
+      }
+    ]
+  }
+}

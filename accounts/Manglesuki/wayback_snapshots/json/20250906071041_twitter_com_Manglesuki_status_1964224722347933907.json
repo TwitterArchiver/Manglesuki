@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1964224640034975885",
+    "created_at": "2025-09-06T07:10:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T08:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964224722347933907"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1964224722347933907",
+    "in_reply_to_user_id": "1886054681635704832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964224640034975885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "直接服用m-CPP后能产生显著的精神活性，包括焦虑、不安、情绪改变和幻觉（高剂量时），这使得它具备被滥用的基础。\n在非法药物合成中，m-CPP的化学结构（苯哌嗪）有很大作为前体的潜力，可以被毒贩用作合成其他更强效、更受欢迎的苯哌嗪类衍生物（如苄基哌嗪）的化学前体。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1964224640034975885",
+        "created_at": "2025-09-06T07:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T08:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964224722347933907"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964224722347933907",
+        "in_reply_to_user_id": "1886054681635704832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964224640034975885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "直接服用m-CPP后能产生显著的精神活性，包括焦虑、不安、情绪改变和幻觉（高剂量时），这使得它具备被滥用的基础。\n在非法药物合成中，m-CPP的化学结构（苯哌嗪）有很大作为前体的潜力，可以被毒贩用作合成其他更强效、更受欢迎的苯哌嗪类衍生物（如苄基哌嗪）的化学前体。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1964224640034975885",
+        "created_at": "2025-09-06T07:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T08:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964224640034975885"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964224640034975885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天医生又给开了两盒曲唑酮，那就来聊聊曲唑酮的代谢产物\n曲唑酮的核心代谢产物间氯苯哌嗪(m-CPP)是一种有效的血清素受体激动剂，特别是对5-HT₂C受体有强效激动作用。它的作用与母药曲唑酮（拮抗剂）相反，这也解释了为什么一些人服用曲唑酮后导致的副作用如头痛、焦虑、躁动不安、失眠等。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜女生｜药物百科小小编辑人员｜双相+边缘型人格障碍｜DJ/调酒师/王者代练/底层画画的/coser/机车ADV车主｜170cm/48kg｜请找我玩！",
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963352402972872704/wGuIt4SD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 56,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 104
+        },
+        "username": "Manglesuki",
+        "verified": false
+      }
+    ]
+  }
+}

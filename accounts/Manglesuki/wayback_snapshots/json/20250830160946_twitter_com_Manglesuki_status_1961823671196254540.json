@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1961736110822109423",
+    "created_at": "2025-08-30T16:09:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T17:09:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961823671196254540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1020264312261115904",
+          "start": 0,
+          "username": "annermax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961823671196254540",
+    "in_reply_to_user_id": "1020264312261115904",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961794923927404664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@annermax 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1961736110822109423",
+        "created_at": "2025-08-30T16:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T17:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961823671196254540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1020264312261115904",
+              "start": 0,
+              "username": "annermax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961823671196254540",
+        "in_reply_to_user_id": "1020264312261115904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961794923927404664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annermax 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1020264312261115904",
+        "conversation_id": "1961736110822109423",
+        "created_at": "2025-08-30T14:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T15:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961794923927404664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886054681635704832",
+              "start": 0,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961794923927404664",
+        "in_reply_to_user_id": "1886054681635704832",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961736110822109423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Manglesuki 😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮 女生 电音/调酒/插画/爬宠/游戏/cos  170cm/48kg\n请找我玩！",
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886054874858872832/SmNbn5fb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 51,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 83
+        },
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-20T11:09:02.000Z",
+        "description": "鸟才2d动画师，插画师，角色设计‖ she/her/hers   ‖ bi  ‖brat‖ 中文/EN 不瘦40斤不改签",
+        "id": "1020264312261115904",
+        "location": "Chicago, IL",
+        "name": "雀型",
+        "pinned_tweet_id": "1934201760501137768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961800429064564736/FFQWR17f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 446,
+          "like_count": 5164,
+          "listed_count": 1,
+          "media_count": 782,
+          "tweet_count": 5564
+        },
+        "username": "annermax",
+        "verified": false
+      }
+    ]
+  }
+}

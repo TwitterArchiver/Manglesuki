@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927432695673425920"
+      ],
+      "media_source_tweet_id": [
+        "1927432703860777446"
+      ]
+    },
+    "author_id": "1886054681635704832",
+    "conversation_id": "1967931690845913323",
+    "created_at": "2025-09-16T12:40:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T13:40:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967931690845913323"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 30,
+          "tag": "chudai"
+        },
+        {
+          "end": 43,
+          "start": 38,
+          "tag": "bdsm"
+        },
+        {
+          "end": 46,
+          "start": 44,
+          "tag": "骚"
+        },
+        {
+          "end": 49,
+          "start": 47,
+          "tag": "色"
+        },
+        {
+          "end": 55,
+          "start": 50,
+          "tag": "sexy"
+        },
+        {
+          "end": 60,
+          "start": 56,
+          "tag": "sex"
+        },
+        {
+          "end": 64,
+          "start": 61,
+          "tag": "sm"
+        },
+        {
+          "end": 74,
+          "start": 65,
+          "tag": "hangzhou"
+        },
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "杭州"
+        },
+        {
+          "end": 82,
+          "start": 79,
+          "tag": "健身"
+        },
+        {
+          "end": 86,
+          "start": 83,
+          "tag": "肌肉"
+        },
+        {
+          "end": 90,
+          "start": 87,
+          "tag": "胸肌"
+        },
+        {
+          "end": 94,
+          "start": 91,
+          "tag": "恶堕"
+        },
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "堕落"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1256027090622640128",
+          "start": 3,
+          "username": "Higashikata_Bai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ToKFP67HYr",
+          "end": 122,
+          "expanded_url": "https://x.com/Higashikata_Bai/status/1927432703860777446/photo/1",
+          "media_key": "3_1927432695673425920",
+          "start": 99,
+          "url": "https://t.co/ToKFP67HYr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967931690845913323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927432703860777446",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Higashikata_Bai: 穿上便只想堕落了 ＃chudai ＃bdsm ＃骚 ＃色 ＃sexy ＃sex ＃sm ＃hangzhou ＃杭州 ＃健身 ＃肌肉 ＃胸肌 ＃恶堕 ＃堕落 https://t.co/ToKFP67HYr"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1967931690845913323].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1967931690845913323",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1967931690845913323"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1927432695673425920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr-d0yIWkAAUjc0.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927432695673425920"
+          ]
+        },
+        "author_id": "1256027090622640128",
+        "conversation_id": "1927432703860777446",
+        "created_at": "2025-05-27T18:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T19:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927432703860777446"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 9,
+              "tag": "chudai"
+            },
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "bdsm"
+            },
+            {
+              "end": 25,
+              "start": 23,
+              "tag": "骚"
+            },
+            {
+              "end": 28,
+              "start": 26,
+              "tag": "色"
+            },
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "sexy"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "sex"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "sm"
+            },
+            {
+              "end": 53,
+              "start": 44,
+              "tag": "hangzhou"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "杭州"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "健身"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "肌肉"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "胸肌"
+            },
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "恶堕"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "堕落"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ToKFP67HYr",
+              "end": 101,
+              "expanded_url": "https://x.com/Higashikata_Bai/status/1927432703860777446/photo/1",
+              "media_key": "3_1927432695673425920",
+              "start": 78,
+              "url": "https://t.co/ToKFP67HYr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927432703860777446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1560,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "穿上便只想堕落了 ＃chudai ＃bdsm ＃骚 ＃色 ＃sexy ＃sex ＃sm ＃hangzhou ＃杭州 ＃健身 ＃肌肉 ＃胸肌 ＃恶堕 ＃堕落 https://t.co/ToKFP67HYr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜女生｜药物百科小小编辑人员｜双相+边缘型人格障碍｜DJ/调酒师/王者代练/底层画画的/coser/机车ADV车主｜170cm/48kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87QHvr"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963352402972872704/wGuIt4SD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 61,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 132
+        },
+        "url": "https://t.co/iv2t87QHvr",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-01T01:06:15.000Z",
+        "description": "drug poison\n生理男 泛性恋 非二元性别\n二次元Coser CV model\nERP FFXIV鸟区 陇南 茂男",
+        "id": "1256027090622640128",
+        "location": "夜之城",
+        "name": "白毒",
+        "pinned_tweet_id": "1917241371444101249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957348152731893761/46RuIW1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 262,
+          "like_count": 2020,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 427
+        },
+        "username": "Higashikata_Bai",
+        "verified": false
+      }
+    ]
+  }
+}

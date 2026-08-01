@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2046074064733888512"
+      ]
+    },
+    "author_id": "1886054681635704832",
+    "conversation_id": "2046074084963107188",
+    "created_at": "2026-04-20T03:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T04:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046074084963107188"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WBf10f8FDj",
+          "end": 28,
+          "expanded_url": "https://x.com/Manglesuki/status/2046074084963107188/video/1",
+          "media_key": "7_2046074064733888512",
+          "start": 5,
+          "url": "https://t.co/WBf10f8FDj"
+        },
+        {
+          "display_url": "x.com/liyu454144/sta…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/liyu454144/status/2045447770094604348",
+          "start": 29,
+          "url": "https://t.co/XoZqPNuy3D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046074084963107188",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045447770094604348",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看看我的 https://t.co/WBf10f8FDj https://t.co/XoZqPNuy3D"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3645,
+        "height": 1280,
+        "media_key": "7_2046074064733888512",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2046074064733888512/pu/img/kgwKyrOe_WR7DM4b.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046074064733888512/pu/vid/avc1/320x568/jpteZNCm1vYJat_J.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046074064733888512/pu/vid/avc1/480x852/rS5n2Dp4SfxiT9zr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046074064733888512/pu/vid/avc1/720x1280/Mvc9ww1FGk6umrnj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2046074064733888512/pu/pl/mNhLA74qZYdX5zy8.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045447737295159296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLj4TwawAATZXe.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045447737391693824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLj4UHbwAAht6x.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2045447737496469504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLj4UgagAA_dR8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046074064733888512"
+          ]
+        },
+        "author_id": "1886054681635704832",
+        "conversation_id": "2046074084963107188",
+        "created_at": "2026-04-20T03:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T04:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046074084963107188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WBf10f8FDj",
+              "end": 28,
+              "expanded_url": "https://x.com/Manglesuki/status/2046074084963107188/video/1",
+              "media_key": "7_2046074064733888512",
+              "start": 5,
+              "url": "https://t.co/WBf10f8FDj"
+            },
+            {
+              "display_url": "x.com/liyu454144/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/liyu454144/status/2045447770094604348",
+              "start": 29,
+              "url": "https://t.co/XoZqPNuy3D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046074084963107188",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045447770094604348",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看看我的 https://t.co/WBf10f8FDj https://t.co/XoZqPNuy3D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045447737295159296",
+            "3_2045447737391693824",
+            "3_2045447737496469504"
+          ]
+        },
+        "author_id": "2037004701955448832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045447770094604348",
+        "created_at": "2026-04-18T10:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T11:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045447770094604348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UncsAsL8tD",
+              "end": 28,
+              "expanded_url": "https://x.com/liyu454144/status/2045447770094604348/photo/1",
+              "media_key": "3_2045447737295159296",
+              "start": 5,
+              "url": "https://t.co/UncsAsL8tD"
+            },
+            {
+              "display_url": "pic.x.com/UncsAsL8tD",
+              "end": 28,
+              "expanded_url": "https://x.com/liyu454144/status/2045447770094604348/photo/1",
+              "media_key": "3_2045447737391693824",
+              "start": 5,
+              "url": "https://t.co/UncsAsL8tD"
+            },
+            {
+              "display_url": "pic.x.com/UncsAsL8tD",
+              "end": 28,
+              "expanded_url": "https://x.com/liyu454144/status/2045447770094604348/photo/1",
+              "media_key": "3_2045447737496469504",
+              "start": 5,
+              "url": "https://t.co/UncsAsL8tD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045447770094604348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很怕黑 https://t.co/UncsAsL8tD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X 凯越450RR｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015477358627852288/p8pWpyfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 100,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 430
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-26T03:12:37.000Z",
+        "description": "",
+        "id": "2037004701955448832",
+        "name": "璃雨",
+        "pinned_tweet_id": "2037050916109693290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037030483658477568/dexsNk3i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 114,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 63
+        },
+        "username": "liyu454144",
+        "verified": false
+      }
+    ]
+  }
+}

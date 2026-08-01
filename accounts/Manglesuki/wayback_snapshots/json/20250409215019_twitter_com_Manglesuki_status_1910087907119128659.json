@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1910087907119128659",
+    "created_at": "2025-04-09T21:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T22:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1910087907119128659"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Manglesuki/sta…",
+          "end": 107,
+          "expanded_url": "https://twitter.com/Manglesuki/status/1910087644325015779",
+          "start": 84,
+          "url": "https://t.co/V5mfGPZrVe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910087907119128659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910087644325015779",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最近这种感觉越来越强烈了，像一个黑洞不断吞噬着我。甚至于现在对于我这个概念也越来越模糊了，不知道我是什么。也许缺的那一部分只是对一些事物太深的执念和曾经感性的自己吧。 https://t.co/V5mfGPZrVe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1910087907119128659",
+        "created_at": "2025-04-09T21:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T22:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910087907119128659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Manglesuki/sta…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/Manglesuki/status/1910087644325015779",
+              "start": 84,
+              "url": "https://t.co/V5mfGPZrVe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910087907119128659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910087644325015779",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最近这种感觉越来越强烈了，像一个黑洞不断吞噬着我。甚至于现在对于我这个概念也越来越模糊了，不知道我是什么。也许缺的那一部分只是对一些事物太深的执念和曾经感性的自己吧。 https://t.co/V5mfGPZrVe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1910087644325015779",
+        "created_at": "2025-04-09T21:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T22:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910087644325015779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910087644325015779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我认为我这个人是不完整的。平时和朋友些相处的时候被分散了很多注意力，但一到自己独处的时候就非常明显的能感觉到自己的内心缺了很大一块，空洞洞的，这种感觉强烈到有时候我自己瞬间意识到之后就开始强烈的反胃和呕吐。随之而来的就是极强的焦虑和狂躁。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是owl/小鸮 女生 电音/调酒/插画/爬宠/游戏 170/48kg\n请找我玩！",
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1905146386305433824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886054874858872832/SmNbn5fb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 30,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 14
+        },
+        "username": "Manglesuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1966468902663360616",
+    "created_at": "2025-09-12T17:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T18:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966558469341007987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1020264312261115904",
+          "start": 0,
+          "username": "annermax"
+        },
+        {
+          "end": 24,
+          "id": "1805909489243377664",
+          "start": 10,
+          "username": "LokLetme31355"
+        },
+        {
+          "end": 34,
+          "id": "1385599511574155268",
+          "start": 25,
+          "username": "cimrann_"
+        },
+        {
+          "end": 49,
+          "id": "4492450573",
+          "start": 35,
+          "username": "16cm_eggplant"
+        },
+        {
+          "end": 62,
+          "id": "1913187778193735680",
+          "start": 50,
+          "username": "a_gskb39844"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966558469341007987",
+    "in_reply_to_user_id": "1020264312261115904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966468902663360616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@annermax @LokLetme31355 @cimrann_ @16cm_eggplant @a_gskb39844 妈——"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1966468899165425664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0pNC4Sb0AAbLU8.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1966468902663360616",
+        "created_at": "2025-09-12T17:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T18:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966558469341007987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1020264312261115904",
+              "start": 0,
+              "username": "annermax"
+            },
+            {
+              "end": 24,
+              "id": "1805909489243377664",
+              "start": 10,
+              "username": "LokLetme31355"
+            },
+            {
+              "end": 34,
+              "id": "1385599511574155268",
+              "start": 25,
+              "username": "cimrann_"
+            },
+            {
+              "end": 49,
+              "id": "4492450573",
+              "start": 35,
+              "username": "16cm_eggplant"
+            },
+            {
+              "end": 62,
+              "id": "1913187778193735680",
+              "start": 50,
+              "username": "a_gskb39844"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966558469341007987",
+        "in_reply_to_user_id": "1020264312261115904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966468902663360616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annermax @LokLetme31355 @cimrann_ @16cm_eggplant @a_gskb39844 妈——"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966468899165425664"
+          ]
+        },
+        "author_id": "1020264312261115904",
+        "conversation_id": "1966468902663360616",
+        "created_at": "2025-09-12T11:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T12:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966468902663360616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1805909489243377664",
+              "start": 22,
+              "username": "LokLetme31355"
+            },
+            {
+              "end": 46,
+              "id": "1385599511574155268",
+              "start": 37,
+              "username": "cimrann_"
+            },
+            {
+              "end": 67,
+              "id": "4492450573",
+              "start": 53,
+              "username": "16cm_eggplant"
+            },
+            {
+              "end": 85,
+              "id": "1886054681635704832",
+              "start": 74,
+              "username": "Manglesuki"
+            },
+            {
+              "end": 98,
+              "id": "1913187778193735680",
+              "start": 86,
+              "username": "a_gskb39844"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infintytweet.me/family-tree?la…",
+              "end": 126,
+              "expanded_url": "https://infintytweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1966103343618732033/B6GA59xy?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1966103343618732033/B6GA59xy?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 103,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infintytweet.me/family-tree?lang=zh",
+              "url": "https://t.co/Xzx1biliR6"
+            },
+            {
+              "display_url": "pic.x.com/seMXggubZa",
+              "end": 150,
+              "expanded_url": "https://x.com/annermax/status/1966468902663360616/photo/1",
+              "media_key": "3_1966468899165425664",
+              "start": 127,
+              "url": "https://t.co/seMXggubZa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966468902663360616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @LokLetme31355 @cimrann_\n👰 配偶: @16cm_eggplant\n👶 孩子: @Manglesuki @a_gskb39844\n\n➡️ https://t.co/Xzx1biliR6 https://t.co/seMXggubZa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜女生｜药物百科小小编辑人员｜双相+边缘型人格障碍｜DJ/调酒师/王者代练/底层画画的/coser/机车ADV车主｜170cm/48kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87QHvr"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963352402972872704/wGuIt4SD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 60,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 121
+        },
+        "url": "https://t.co/iv2t87QHvr",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-20T11:09:02.000Z",
+        "description": "鸟才2d动画师，插画师，角色设计‖ she/her/hers   ‖ bi  ‖brat‖ 中文/EN 不瘦40斤不改签",
+        "id": "1020264312261115904",
+        "location": "Chicago, IL",
+        "name": "雀型",
+        "pinned_tweet_id": "1934201760501137768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961800429064564736/FFQWR17f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 452,
+          "like_count": 5200,
+          "listed_count": 1,
+          "media_count": 786,
+          "tweet_count": 5637
+        },
+        "username": "annermax",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-26T10:22:41.000Z",
+        "description": "",
+        "id": "1805909489243377664",
+        "name": "letmeLok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805909654456909825/jhaUZAsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 131,
+          "like_count": 459,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "LokLetme31355",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-23T14:21:06.000Z",
+        "description": "성인",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/46903097",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/46903097",
+                "start": 0,
+                "url": "https://t.co/8Xt9nzKqDZ"
+              }
+            ]
+          }
+        },
+        "id": "1385599511574155268",
+        "name": "소란 sᴏʀᴀɴ",
+        "pinned_tweet_id": "1959127727732338994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959837288139202561/ny4MmwMz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14237,
+          "following_count": 141,
+          "like_count": 11874,
+          "listed_count": 56,
+          "media_count": 3091,
+          "tweet_count": 13525
+        },
+        "url": "https://t.co/8Xt9nzKqDZ",
+        "username": "cimrann_",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-08T02:57:27.000Z",
+        "description": "杭州16厘米三手指粗大茄子, 爱好女",
+        "id": "4492450573",
+        "name": "夜鹭",
+        "pinned_tweet_id": "1577852032068702210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886234655692840960/q7p3vHUh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 265,
+          "like_count": 5878,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 6791
+        },
+        "username": "16cm_eggplant",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T11:09:07.000Z",
+        "description": "0571 简简单单顺其自然",
+        "id": "1913187778193735680",
+        "name": "Gskb A",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920182139720773633/m25W-Z0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 125,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 71
+        },
+        "username": "a_gskb39844",
+        "verified": false
+      }
+    ]
+  }
+}

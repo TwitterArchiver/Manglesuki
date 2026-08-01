@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1997807736969724310",
+    "created_at": "2025-12-16T04:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T05:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000784471268737295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1768509535441022976",
+          "start": 0,
+          "username": "aokitetsu111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000784471268737295",
+    "in_reply_to_user_id": "1768509535441022976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997807736969724310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aokitetsu111 宝宝你是一个可爱宝宝🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997807726781734912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7mjiuxbIAA6bxT.jpg",
+        "width": 1158
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1997807726781661184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7mjiuxaAAAmNZR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1997807736969724310",
+        "created_at": "2025-12-16T04:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T05:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000784471268737295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1768509535441022976",
+              "start": 0,
+              "username": "aokitetsu111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000784471268737295",
+        "in_reply_to_user_id": "1768509535441022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997807736969724310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aokitetsu111 宝宝你是一个可爱宝宝🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997807726781734912",
+            "3_1997807726781661184"
+          ]
+        },
+        "author_id": "1768509535441022976",
+        "conversation_id": "1997807736969724310",
+        "created_at": "2025-12-07T23:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T00:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997807736969724310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xtMsKmszgY",
+              "end": 27,
+              "expanded_url": "https://x.com/aokitetsu111/status/1997807736969724310/photo/1",
+              "media_key": "3_1997807726781734912",
+              "start": 4,
+              "url": "https://t.co/xtMsKmszgY"
+            },
+            {
+              "display_url": "pic.x.com/xtMsKmszgY",
+              "end": 27,
+              "expanded_url": "https://x.com/aokitetsu111/status/1997807736969724310/photo/1",
+              "media_key": "3_1997807726781661184",
+              "start": 4,
+              "url": "https://t.co/xtMsKmszgY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997807736969724310",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/xtMsKmszgY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X 凯越450RR｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968414430628290560/1MKf2N9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 76,
+          "like_count": 342,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T05:28:34.000Z",
+        "description": "原号爆了@AOKITETSUKO111 第二系统@SazukiYui 彻子2.0/欢迎互fo~不喜欢请屏蔽我但请不要举报谢谢🥺 接塔罗占卜，底价35一次，不准不要钱（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "AOKITETSUKO111"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "SazukiYui"
+              }
+            ]
+          }
+        },
+        "id": "1768509535441022976",
+        "location": "Hell",
+        "name": "てつこちゃん",
+        "pinned_tweet_id": "1866648143737352674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977499801509081088/O04_kf3x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 321,
+          "like_count": 15146,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 2564
+        },
+        "username": "aokitetsu111",
+        "verified": false
+      }
+    ]
+  }
+}

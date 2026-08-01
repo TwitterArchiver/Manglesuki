@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1958363985243410941",
+    "created_at": "2025-11-07T05:50:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T06:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986672489137905987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1825945552212938752",
+          "start": 0,
+          "username": "nemuri_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986672489137905987",
+    "in_reply_to_user_id": "1825945552212938752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958363985243410941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nemuri_404 宝宝为什么要o感康，这垃圾药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1958363985243410941",
+        "created_at": "2025-11-07T05:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T06:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986672489137905987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1825945552212938752",
+              "start": 0,
+              "username": "nemuri_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986672489137905987",
+        "in_reply_to_user_id": "1825945552212938752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958363985243410941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nemuri_404 宝宝为什么要o感康，这垃圾药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825945552212938752",
+        "conversation_id": "1958363985243410941",
+        "created_at": "2025-08-21T03:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T04:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958363985243410941"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958363985243410941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1311,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天吃了6t感康等了一个小时左右感觉没效又加了2t然后睡着了 呃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/机车ADV车主｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968414430628290560/1MKf2N9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 64,
+          "like_count": 260,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 204
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T17:18:57.000Z",
+        "description": "你好我是Nemuri 我渴望被爱 坐标上海 加v线下请先过门 线下可全国具体请私信🐰 紋身/穿孔/自残/药物依赖/ 泛性恋/双相/焦虑/人体改造 私信只回门槛线下相关 入门请直接发口令 喜欢我请给我打钱🤍",
+        "id": "1825945552212938752",
+        "location": "🏥💉",
+        "name": "藥眠夢噬",
+        "pinned_tweet_id": "1986097666758267273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986350321002815495/4z_3hS65_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1517,
+          "following_count": 295,
+          "like_count": 305,
+          "listed_count": 6,
+          "media_count": 36,
+          "tweet_count": 286
+        },
+        "username": "nemuri_404",
+        "verified": false
+      }
+    ]
+  }
+}

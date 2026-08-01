@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2035667084454305792"
+      ]
+    },
+    "author_id": "1886054681635704832",
+    "conversation_id": "2035667155577197005",
+    "created_at": "2026-03-22T10:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T11:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035667155577197005"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ojdXr0Pi6J",
+          "end": 55,
+          "expanded_url": "https://x.com/Manglesuki/status/2035667155577197005/video/1",
+          "media_key": "7_2035667084454305792",
+          "start": 32,
+          "url": "https://t.co/ojdXr0Pi6J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035667155577197005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前朋友给我拍的，骑的宝马大小眼版s1000rr，还是蛮好玩的 https://t.co/ojdXr0Pi6J"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15672,
+        "height": 720,
+        "media_key": "7_2035667084454305792",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2035667084454305792/pu/img/6IC2MA4psHGFEVAT.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035667084454305792/pu/vid/avc1/480x270/zBOzDmq3Op5Ult1q.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035667084454305792/pu/vid/avc1/640x360/EQ5KK1WSIZ1N2bvx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035667084454305792/pu/vid/avc1/1280x720/pVh9QdJ4GLqKHI1N.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2035667084454305792/pu/pl/Hyf64LBawpwFh7Q3.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2035667084454305792"
+          ]
+        },
+        "author_id": "1886054681635704832",
+        "conversation_id": "2035667155577197005",
+        "created_at": "2026-03-22T10:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T11:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035667155577197005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ojdXr0Pi6J",
+              "end": 55,
+              "expanded_url": "https://x.com/Manglesuki/status/2035667155577197005/video/1",
+              "media_key": "7_2035667084454305792",
+              "start": 32,
+              "url": "https://t.co/ojdXr0Pi6J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035667155577197005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前朋友给我拍的，骑的宝马大小眼版s1000rr，还是蛮好玩的 https://t.co/ojdXr0Pi6J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X 凯越450RR｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015477358627852288/p8pWpyfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 85,
+          "like_count": 412,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 386
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      }
+    ]
+  }
+}

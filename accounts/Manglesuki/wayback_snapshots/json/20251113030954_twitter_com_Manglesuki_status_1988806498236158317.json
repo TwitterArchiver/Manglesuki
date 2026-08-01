@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1988660673702949103",
+    "created_at": "2025-11-13T03:09:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T04:09:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988806498236158317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1256027090622640128",
+          "start": 0,
+          "username": "Higashikata_Bai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988806498236158317",
+    "in_reply_to_user_id": "1256027090622640128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988660673702949103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Higashikata_Bai 爹地"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988660649300512768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5kkUvxa0AAVRCD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1988660650164514816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5kkUy_acAAtSHs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1988660673702949103",
+        "created_at": "2025-11-13T03:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T04:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988806498236158317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1256027090622640128",
+              "start": 0,
+              "username": "Higashikata_Bai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988806498236158317",
+        "in_reply_to_user_id": "1256027090622640128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988660673702949103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Higashikata_Bai 爹地"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988660649300512768",
+            "3_1988660650164514816"
+          ]
+        },
+        "author_id": "1256027090622640128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027933222",
+              "name": "Call of Duty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1828473756735414272",
+              "name": "Call of Duty: Black Ops 6"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027933222",
+              "name": "Call of Duty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1219785936931672064",
+              "name": "Call of Duty League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1988660673702949103",
+        "created_at": "2025-11-12T17:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T18:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988660673702949103"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "CoD"
+            },
+            {
+              "end": 24,
+              "start": 13,
+              "tag": "CallofDuty"
+            },
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "Ghost"
+            },
+            {
+              "end": 43,
+              "start": 32,
+              "tag": "SimonRiley"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "幽灵"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aGrvSPgrwu",
+              "end": 71,
+              "expanded_url": "https://x.com/Higashikata_Bai/status/1988660673702949103/photo/1",
+              "media_key": "3_1988660649300512768",
+              "start": 48,
+              "url": "https://t.co/aGrvSPgrwu"
+            },
+            {
+              "display_url": "pic.x.com/aGrvSPgrwu",
+              "end": 71,
+              "expanded_url": "https://x.com/Higashikata_Bai/status/1988660673702949103/photo/1",
+              "media_key": "3_1988660650164514816",
+              "start": 48,
+              "url": "https://t.co/aGrvSPgrwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988660673702949103",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "黑水ghost #CoD #CallofDuty #Ghost #SimonRiley #幽灵 https://t.co/aGrvSPgrwu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/ADV摩托车主｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968414430628290560/1MKf2N9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 65,
+          "like_count": 286,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 231
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-01T01:06:15.000Z",
+        "description": "drug poison\n生理男 泛性恋 非二元性别\n二次元Coser CV model",
+        "id": "1256027090622640128",
+        "location": "夜之城",
+        "name": "白👾",
+        "pinned_tweet_id": "1917241371444101249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957348152731893761/46RuIW1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 254,
+          "like_count": 2094,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 440
+        },
+        "username": "Higashikata_Bai",
+        "verified": false
+      }
+    ]
+  }
+}

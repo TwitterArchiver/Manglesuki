@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1970229763739685067",
+    "created_at": "2025-09-23T15:36:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T16:36:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970512604843106805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1940706558599708673",
+          "start": 0,
+          "username": "plzhauntmedie0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970512604843106805",
+    "in_reply_to_user_id": "1940706558599708673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970229763739685067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plzhauntmedie0 思诺思停药真的巨难受，我之前停药之后做的清醒梦跟现实我睡前在做的事情的延续一样，醒了跟没睡一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1970229763739685067",
+        "created_at": "2025-09-23T15:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T16:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970512604843106805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1940706558599708673",
+              "start": 0,
+              "username": "plzhauntmedie0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970512604843106805",
+        "in_reply_to_user_id": "1940706558599708673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970229763739685067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plzhauntmedie0 思诺思停药真的巨难受，我之前停药之后做的清醒梦跟现实我睡前在做的事情的延续一样，醒了跟没睡一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940706558599708673",
+        "conversation_id": "1970229763739685067",
+        "created_at": "2025-09-22T20:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T21:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970229763739685067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970229763739685067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "思诺思停药之后我三天没睡觉了 一点都没睡着 我真的快死了，。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜女生｜药物百科小小编辑人员｜双相+边缘型人格障碍｜DJ/调酒师/王者代练/底层画画的/coser/机车ADV车主｜170cm/48kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87QHvr"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968414430628290560/1MKf2N9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 59,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 135
+        },
+        "url": "https://t.co/iv2t87QHvr",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T09:38:04.000Z",
+        "description": "ISTP｜中文｜日本語｜EN",
+        "id": "1940706558599708673",
+        "name": "01",
+        "pinned_tweet_id": "1940707977415348521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940711179749670912/yw0eIxYo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 38,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 118
+        },
+        "username": "plzhauntmedie0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015477564869955584"
+      ]
+    },
+    "author_id": "1886054681635704832",
+    "conversation_id": "2015477570805133752",
+    "created_at": "2026-01-25T17:31:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T18:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015477570805133752"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uMwHtE7E6y",
+          "end": 26,
+          "expanded_url": "https://x.com/Manglesuki/status/2015477570805133752/photo/1",
+          "media_key": "3_2015477564869955584",
+          "start": 3,
+          "url": "https://t.co/uMwHtE7E6y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015477570805133752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "临摹 https://t.co/uMwHtE7E6y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1535,
+        "media_key": "3_2015477564869955584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_hqKrLX0AA_6dH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015477564869955584"
+          ]
+        },
+        "author_id": "1886054681635704832",
+        "conversation_id": "2015477570805133752",
+        "created_at": "2026-01-25T17:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T18:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015477570805133752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uMwHtE7E6y",
+              "end": 26,
+              "expanded_url": "https://x.com/Manglesuki/status/2015477570805133752/photo/1",
+              "media_key": "3_2015477564869955584",
+              "start": 3,
+              "url": "https://t.co/uMwHtE7E6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015477570805133752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "临摹 https://t.co/uMwHtE7E6y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X 凯越450RR｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015477358627852288/p8pWpyfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 80,
+          "like_count": 353,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 325
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      }
+    ]
+  }
+}

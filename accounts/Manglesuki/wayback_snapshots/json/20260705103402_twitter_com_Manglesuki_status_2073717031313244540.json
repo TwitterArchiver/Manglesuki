@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "2073289101751836682",
+    "created_at": "2026-07-05T10:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T11:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073717031313244540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "68868234",
+          "start": 0,
+          "username": "Ne1lHeyw00d"
+        },
+        {
+          "end": 28,
+          "id": "1830934925769613334",
+          "start": 13,
+          "username": "Jinggebiezhuaw"
+        },
+        {
+          "end": 43,
+          "id": "1518404201168007168",
+          "start": 29,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073717031313244540",
+    "in_reply_to_user_id": "68868234",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073489132807242148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ne1lHeyw00d @Jinggebiezhuaw @godspeedyou50 哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "2073289101751836682",
+        "created_at": "2026-07-05T10:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073717031313244540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "68868234",
+              "start": 0,
+              "username": "Ne1lHeyw00d"
+            },
+            {
+              "end": 28,
+              "id": "1830934925769613334",
+              "start": 13,
+              "username": "Jinggebiezhuaw"
+            },
+            {
+              "end": 43,
+              "id": "1518404201168007168",
+              "start": 29,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073717031313244540",
+        "in_reply_to_user_id": "68868234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073489132807242148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ne1lHeyw00d @Jinggebiezhuaw @godspeedyou50 哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "68868234",
+        "conversation_id": "2073289101751836682",
+        "created_at": "2026-07-04T19:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073489132807242148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830934925769613334",
+              "start": 0,
+              "username": "Jinggebiezhuaw"
+            },
+            {
+              "end": 30,
+              "id": "1518404201168007168",
+              "start": 16,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 42,
+              "id": "1886054681635704832",
+              "start": 31,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073489132807242148",
+        "in_reply_to_user_id": "1830934925769613334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073450270475145326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jinggebiezhuaw @godspeedyou50 @Manglesuki 我一直感觉你是p的，结果是真的长这样吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科wiki主@yaowubaike｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "yaowubaike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87QHvr"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015477358627852288/p8pWpyfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 102,
+          "like_count": 519,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 480
+        },
+        "url": "https://t.co/iv2t87QHvr",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-26T01:46:00.000Z",
+        "description": "流浪汉族 接受付费咨询 药理学 用药咨询 用药建议 毒理学、药理学、精神疾病学相关研究  前工人吧吧主 结晶化捧杀者 键政荣誉证书获得者 有无犯罪记录 是 目前在海外研究伊博格草对人类大脑清空成瘾性的视线   \n攒钱起诉派出所中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/babycost",
+                "end": 23,
+                "expanded_url": "http://t.me/babycost",
+                "start": 0,
+                "url": "https://t.co/a0nGHzpVaD"
+              }
+            ]
+          }
+        },
+        "id": "68868234",
+        "location": "ip：外国",
+        "name": "The Red Devils（上访中）",
+        "pinned_tweet_id": "2062591615802474584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070081285587152896/RvUcBq3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 33,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 537
+        },
+        "url": "https://t.co/a0nGHzpVaD",
+        "username": "Ne1lHeyw00d",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读。非典型化学推，合法不列管策划药售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3286,
+          "following_count": 459,
+          "like_count": 1162,
+          "listed_count": 5,
+          "media_count": 185,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1595,
+          "following_count": 564,
+          "like_count": 1263,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 2832
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

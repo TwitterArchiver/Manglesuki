@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "2079658764769390640",
+    "created_at": "2026-07-23T22:13:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T23:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080416006196121737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2014509692513615875",
+          "start": 0,
+          "username": "Doll4dopez"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080416006196121737",
+    "in_reply_to_user_id": "2014509692513615875",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080412958337769898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Doll4dopez 哈哈哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2080412955561066496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN8cj4JWgAA9s97.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "2079658764769390640",
+        "created_at": "2026-07-23T22:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T23:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080416006196121737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2014509692513615875",
+              "start": 0,
+              "username": "Doll4dopez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080416006196121737",
+        "in_reply_to_user_id": "2014509692513615875",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080412958337769898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doll4dopez 哈哈哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080412955561066496"
+          ]
+        },
+        "author_id": "2014509692513615875",
+        "conversation_id": "2079658764769390640",
+        "created_at": "2026-07-23T22:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T23:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080412958337769898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886054681635704832",
+              "start": 0,
+              "username": "Manglesuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KyUhZc0rLA",
+              "end": 35,
+              "expanded_url": "https://x.com/Doll4dopez/status/2080412958337769898/photo/1",
+              "media_key": "3_2080412955561066496",
+              "start": 12,
+              "url": "https://t.co/KyUhZc0rLA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080412958337769898",
+        "in_reply_to_user_id": "1886054681635704832",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080412448159576311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Manglesuki https://t.co/KyUhZc0rLA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜爱人@TUTU16016｜ENTP｜女生｜泛性恋｜药物百科wiki主原@yaowubaike现@kenrobbcrazyy｜边缘型BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "TUTU16016"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "username": "yaowubaike"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "kenrobbcrazyy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87QHvr"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077495322423738368/CahYMGJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 116,
+          "like_count": 578,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 531
+        },
+        "url": "https://t.co/iv2t87QHvr",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T01:25:29.000Z",
+        "description": "𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝔂𝓸𝓾 𝓶𝔂 𝓬𝓪𝓻𝓷𝓲𝓿𝓪𝓵 🎪",
+        "id": "2014509692513615875",
+        "name": "⟡˖ 𝓙𝓮𝓼𝓽𝓮𝓻 𝓭𝓸𝓵𝓵 🃏⋆౨ৎ˚",
+        "pinned_tweet_id": "2015443601661321560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074211698911899648/a195DaLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 31,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "Doll4dopez",
+        "verified": false
+      }
+    ]
+  }
+}

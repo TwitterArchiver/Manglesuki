@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963364160936480768"
+      ]
+    },
+    "author_id": "1886054681635704832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1963364172567339145",
+    "created_at": "2025-09-03T22:11:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T23:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963364172567339145"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bHK5S5SiAh",
+          "end": 168,
+          "expanded_url": "https://x.com/Manglesuki/status/1963364172567339145/photo/1",
+          "media_key": "3_1963364160936480768",
+          "start": 145,
+          "url": "https://t.co/bHK5S5SiAh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963364172567339145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是Onyxx 咱们药物百科的一个小小编辑 但是我这个人发帖不多，话很少…所以可能发的日常图片多一些 想要了解我可以翻翻我的推 我没什么朋友 我很孤独 我的情感太麻木了，也怕别人觉得我是出头鸟，所以话不多，但是需要我的时候我一定在\n需要帮助 需要我陪陪你 哄哄你 私聊我就好 一定尽力帮你 https://t.co/bHK5S5SiAh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963364160936480768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz9FTVFaEAAe0gA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963364160936480768"
+          ]
+        },
+        "author_id": "1886054681635704832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1963364172567339145",
+        "created_at": "2025-09-03T22:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T23:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963364172567339145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bHK5S5SiAh",
+              "end": 168,
+              "expanded_url": "https://x.com/Manglesuki/status/1963364172567339145/photo/1",
+              "media_key": "3_1963364160936480768",
+              "start": 145,
+              "url": "https://t.co/bHK5S5SiAh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963364172567339145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是Onyxx 咱们药物百科的一个小小编辑 但是我这个人发帖不多，话很少…所以可能发的日常图片多一些 想要了解我可以翻翻我的推 我没什么朋友 我很孤独 我的情感太麻木了，也怕别人觉得我是出头鸟，所以话不多，但是需要我的时候我一定在\n需要帮助 需要我陪陪你 哄哄你 私聊我就好 一定尽力帮你 https://t.co/bHK5S5SiAh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜女生｜药物百科小小编辑人员｜双相+边缘型人格障碍｜DJ/调酒师/王者代练/底层画画的/coser/机车ADV车主\n170cm/48kg\n请找我玩！",
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963352402972872704/wGuIt4SD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 55,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 88
+        },
+        "username": "Manglesuki",
+        "verified": false
+      }
+    ]
+  }
+}

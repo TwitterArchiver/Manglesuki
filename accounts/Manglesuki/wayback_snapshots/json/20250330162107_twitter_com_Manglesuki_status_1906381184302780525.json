@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1906381153944412160"
+      ]
+    },
+    "author_id": "1886054681635704832",
+    "conversation_id": "1906381184302780525",
+    "created_at": "2025-03-30T16:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T17:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906381184302780525"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 5,
+          "normalized_text": "Trippy",
+          "probability": 0.5668,
+          "start": 0,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3BdIsOwmo2",
+          "end": 39,
+          "expanded_url": "https://x.com/Manglesuki/status/1906381184302780525/video/1",
+          "media_key": "7_1906381153944412160",
+          "start": 16,
+          "url": "https://t.co/3BdIsOwmo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906381184302780525",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Trippy as fuck💊 https://t.co/3BdIsOwmo2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13235,
+        "height": 496,
+        "media_key": "7_1906381153944412160",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1906381153944412160/pu/img/Oo6-nYU-RqnwmA9w.jpg",
+        "public_metrics": {},
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906381153944412160/pu/vid/avc1/470x270/IYP7l-6l-a3t-Vgu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906381153944412160/pu/vid/avc1/626x360/BoZAUSGYvzqXus67.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906381153944412160/pu/vid/avc1/864x496/lwdfbqyr58eCpCml.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1906381153944412160/pu/pl/pSvDsvjDvPEcsaBQ.m3u8?tag=12"
+          }
+        ],
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1906381153944412160"
+          ]
+        },
+        "author_id": "1886054681635704832",
+        "conversation_id": "1906381184302780525",
+        "created_at": "2025-03-30T16:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T17:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906381184302780525"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Trippy",
+              "probability": 0.5668,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3BdIsOwmo2",
+              "end": 39,
+              "expanded_url": "https://x.com/Manglesuki/status/1906381184302780525/video/1",
+              "media_key": "7_1906381153944412160",
+              "start": 16,
+              "url": "https://t.co/3BdIsOwmo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906381184302780525",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Trippy as fuck💊 https://t.co/3BdIsOwmo2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是owl/小鸮 泛性恋 \n电音/调酒/插画/爬宠 170/48kg\n请喜欢我！",
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1905146386305433824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886054874858872832/SmNbn5fb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 24,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 4
+        },
+        "username": "Manglesuki",
+        "verified": false
+      }
+    ]
+  }
+}

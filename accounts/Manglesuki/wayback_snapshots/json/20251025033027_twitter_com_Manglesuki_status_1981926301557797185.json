@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1981561459000955324",
+    "created_at": "2025-10-25T03:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T04:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981926301557797185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1561588899499196417",
+          "start": 0,
+          "username": "Tiandaidaidai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981926301557797185",
+    "in_reply_to_user_id": "1561588899499196417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981926212114255892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tiandaidaidai 吃精分了是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1981561459000955324",
+        "created_at": "2025-10-25T03:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T04:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981926301557797185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1561588899499196417",
+              "start": 0,
+              "username": "Tiandaidaidai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981926301557797185",
+        "in_reply_to_user_id": "1561588899499196417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981926212114255892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tiandaidaidai 吃精分了是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561588899499196417",
+        "conversation_id": "1981561459000955324",
+        "created_at": "2025-10-25T03:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T04:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981926212114255892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886054681635704832",
+              "start": 0,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981926212114255892",
+        "in_reply_to_user_id": "1886054681635704832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981925837592314143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Manglesuki 那肯定真呗！估计他又吃晚安了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/机车ADV车主｜170cm/48kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968414430628290560/1MKf2N9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 60,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T05:39:42.000Z",
+        "description": "惨圈哦滴逼  LGBT+友好中🏳️‍🌈  狗@GHYYAYA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "GHYYAYA"
+              }
+            ]
+          }
+        },
+        "id": "1561588899499196417",
+        "location": "提瓦特大陆",
+        "name": "⊹天填甜田添恬黛⊹",
+        "pinned_tweet_id": "1960151865762701475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981864967440658432/yhVMC50m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 1619,
+          "like_count": 62179,
+          "listed_count": 5,
+          "media_count": 544,
+          "tweet_count": 8951
+        },
+        "username": "Tiandaidaidai",
+        "verified": false
+      }
+    ]
+  }
+}

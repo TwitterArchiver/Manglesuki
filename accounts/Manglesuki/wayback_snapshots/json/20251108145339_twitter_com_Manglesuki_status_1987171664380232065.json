@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987171662165647363"
+      ]
+    },
+    "author_id": "1886054681635704832",
+    "conversation_id": "1987166033019638044",
+    "created_at": "2025-11-08T14:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T15:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987171664380232065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1963867793776070656",
+          "start": 0,
+          "username": "drug_artist1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vvbY4COKk8",
+          "end": 37,
+          "expanded_url": "https://x.com/Manglesuki/status/1987171664380232065/photo/1",
+          "media_key": "3_1987171662165647363",
+          "start": 14,
+          "url": "https://t.co/vvbY4COKk8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987171664380232065",
+    "in_reply_to_user_id": "1963867793776070656",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987166033019638044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drug_artist1 https://t.co/vvbY4COKk8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 117,
+        "media_key": "3_1987171662165647363",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5PaGScbIAM-WX7.jpg",
+        "width": 120
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1987166026417782784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5PU-PpbQAAmTl7.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1987166029945200640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5PU-cybYAAwkCi.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987171662165647363"
+          ]
+        },
+        "author_id": "1886054681635704832",
+        "conversation_id": "1987166033019638044",
+        "created_at": "2025-11-08T14:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T15:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987171664380232065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963867793776070656",
+              "start": 0,
+              "username": "drug_artist1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vvbY4COKk8",
+              "end": 37,
+              "expanded_url": "https://x.com/Manglesuki/status/1987171664380232065/photo/1",
+              "media_key": "3_1987171662165647363",
+              "start": 14,
+              "url": "https://t.co/vvbY4COKk8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987171664380232065",
+        "in_reply_to_user_id": "1963867793776070656",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987166033019638044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist1 https://t.co/vvbY4COKk8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987166026417782784",
+            "3_1987166029945200640"
+          ]
+        },
+        "author_id": "1963867793776070656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1987166033019638044",
+        "created_at": "2025-11-08T14:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T15:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987166033019638044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zAeEzFMO6y",
+              "end": 112,
+              "expanded_url": "https://x.com/drug_artist1/status/1987166033019638044/photo/1",
+              "media_key": "3_1987166026417782784",
+              "start": 89,
+              "url": "https://t.co/zAeEzFMO6y"
+            },
+            {
+              "display_url": "pic.x.com/zAeEzFMO6y",
+              "end": 112,
+              "expanded_url": "https://x.com/drug_artist1/status/1987166033019638044/photo/1",
+              "media_key": "3_1987166029945200640",
+              "start": 89,
+              "url": "https://t.co/zAeEzFMO6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987166033019638044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的龙地洞阴暗神秘基地里存货还有130多盒思诺思，7000多片Xanax，120盒pr，劳拉西泮…咪达唑仑…哌甲酯等等大大小小精品神药和麻药共计几百盒，这就是我安全感的来源😋😋 https://t.co/zAeEzFMO6y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/机车ADV车主｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968414430628290560/1MKf2N9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 65,
+          "like_count": 275,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 218
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T07:32:46.000Z",
+        "description": "药物百科wiki主｜投稿报告请私信我｜长发视觉系4i男娘｜售卖合法物质直接私信我或联系TG: https://t.co/epYRPhCJVD ｜提问箱:https://t.co/ez10SQHDdD｜愿每一位药物滥用者都能脱离深渊｜提供药物/精神病咨询 ｜im crazy!",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/drug_artist",
+                "end": 70,
+                "expanded_url": "http://t.me/drug_artist",
+                "start": 47,
+                "url": "https://t.co/epYRPhCJVD"
+              },
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 99,
+                "expanded_url": "https://ngl.link/drug_artist",
+                "start": 76,
+                "url": "https://t.co/ez10SQHDdD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/N4ZvRTnSIg"
+              }
+            ]
+          }
+        },
+        "id": "1963867793776070656",
+        "location": "Xanax天国12mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1985641950721294743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984290837677965312/pwoAuV9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 91,
+          "like_count": 542,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 661
+        },
+        "url": "https://t.co/N4ZvRTnSIg",
+        "username": "drug_artist1",
+        "verified": false
+      }
+    ]
+  }
+}

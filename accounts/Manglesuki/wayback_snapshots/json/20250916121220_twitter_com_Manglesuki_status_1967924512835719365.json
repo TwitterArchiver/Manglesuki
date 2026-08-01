@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1967605797174800463",
+    "created_at": "2025-09-16T12:12:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T13:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967924512835719365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1020264312261115904",
+          "start": 0,
+          "username": "annermax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967924512835719365",
+    "in_reply_to_user_id": "1020264312261115904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967641032738345376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@annermax 喜欢你！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1967605797174800463",
+        "created_at": "2025-09-16T12:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T13:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967924512835719365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1020264312261115904",
+              "start": 0,
+              "username": "annermax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967924512835719365",
+        "in_reply_to_user_id": "1020264312261115904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967641032738345376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annermax 喜欢你！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1020264312261115904",
+        "conversation_id": "1967605797174800463",
+        "created_at": "2025-09-15T17:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T18:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967641032738345376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886054681635704832",
+              "start": 0,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967641032738345376",
+        "in_reply_to_user_id": "1886054681635704832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967605797174800463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Manglesuki 酷毙了骑士"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜女生｜药物百科小小编辑人员｜双相+边缘型人格障碍｜DJ/调酒师/王者代练/底层画画的/coser/机车ADV车主｜170cm/48kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87QHvr"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963352402972872704/wGuIt4SD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 61,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 131
+        },
+        "url": "https://t.co/iv2t87QHvr",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-20T11:09:02.000Z",
+        "description": "鸟才2d动画师，插画师，角色设计‖ she/her/hers   ‖ bi  ‖brat‖ 中文/EN 不瘦40斤不改签",
+        "id": "1020264312261115904",
+        "location": "Chicago, IL",
+        "name": "雀型",
+        "pinned_tweet_id": "1934201760501137768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961800429064564736/FFQWR17f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 452,
+          "like_count": 5226,
+          "listed_count": 1,
+          "media_count": 786,
+          "tweet_count": 5668
+        },
+        "username": "annermax",
+        "verified": false
+      }
+    ]
+  }
+}

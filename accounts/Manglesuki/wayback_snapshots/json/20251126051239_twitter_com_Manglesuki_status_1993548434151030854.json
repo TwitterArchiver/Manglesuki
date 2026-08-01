@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1993285663639453702",
+    "created_at": "2025-11-26T05:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T06:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993548434151030854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1840720004620361728",
+          "start": 0,
+          "username": "KaoriAoii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993548434151030854",
+    "in_reply_to_user_id": "1840720004620361728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993285663639453702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaoriAoii 笑的难受画的有点太好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993285659856191495",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6mSvyubwAcNvGc.jpg",
+        "width": 1444
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993285658966933505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6mSvvaawAEmCwn.jpg",
+        "width": 254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1993285663639453702",
+        "created_at": "2025-11-26T05:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T06:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993548434151030854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1840720004620361728",
+              "start": 0,
+              "username": "KaoriAoii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993548434151030854",
+        "in_reply_to_user_id": "1840720004620361728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993285663639453702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaoriAoii 笑的难受画的有点太好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993285659856191495",
+            "3_1993285658966933505"
+          ]
+        },
+        "author_id": "1840720004620361728",
+        "conversation_id": "1993285663639453702",
+        "created_at": "2025-11-25T11:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T12:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993285663639453702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RexyKaj8Jb",
+              "end": 72,
+              "expanded_url": "https://x.com/KaoriAoii/status/1993285663639453702/photo/1",
+              "media_key": "3_1993285659856191495",
+              "start": 49,
+              "url": "https://t.co/RexyKaj8Jb"
+            },
+            {
+              "display_url": "pic.x.com/RexyKaj8Jb",
+              "end": 72,
+              "expanded_url": "https://x.com/KaoriAoii/status/1993285663639453702/photo/1",
+              "media_key": "3_1993285658966933505",
+              "start": 49,
+              "url": "https://t.co/RexyKaj8Jb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993285663639453702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 401,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "鸡哥小故事更新——割蛋。\n豆包生成不了的东西我就自己画。（对几把的认知仅限于本子，有错误请指出） https://t.co/RexyKaj8Jb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X 凯越450RR｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968414430628290560/1MKf2N9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 71,
+          "like_count": 327,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 286
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T11:47:15.000Z",
+        "description": "=小香丨生理女心理不定丨画师丨utau+vocaloid丨od丨第五人格丨無言フォロー失礼します丨🚪88",
+        "id": "1840720004620361728",
+        "location": "高原",
+        "name": "苍井香绪里",
+        "pinned_tweet_id": "1980685233134633169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983957677228355584/zLyXkWyV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 114,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 335
+        },
+        "username": "KaoriAoii",
+        "verified": false
+      }
+    ]
+  }
+}

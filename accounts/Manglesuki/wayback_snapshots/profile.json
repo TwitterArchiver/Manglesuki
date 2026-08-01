@@ -1,0 +1,25 @@
+{
+  "name": "OnyxxOwl",
+  "username": "@Manglesuki",
+  "bio": "我是Onyxx/小鸮｜爱人@TUTU16016｜ENTP｜女生｜泛性恋｜药物百科wiki主@yaowubaike｜鸦鸦叫Gavin｜边缘型BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X｜171cm/51kg｜请找我玩！",
+  "location": "Night city",
+  "link": "https://yaowubaike.ca/",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 23,
+        "start": 13,
+        "username": "TUTU16016"
+      },
+      {
+        "end": 56,
+        "start": 45,
+        "username": "yaowubaike"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2077495322423738368/CahYMGJX_normal.jpg"
+}

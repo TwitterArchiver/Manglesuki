@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "2017685469086302715",
+    "created_at": "2026-02-01T19:32:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T20:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018044689312891106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1796937387899064320",
+          "start": 0,
+          "username": "CleverFf050755"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018044689312891106",
+    "in_reply_to_user_id": "1796937387899064320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017823629669806260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CleverFf050755 咪咪咪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "2017685469086302715",
+        "created_at": "2026-02-01T19:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T20:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018044689312891106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1796937387899064320",
+              "start": 0,
+              "username": "CleverFf050755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018044689312891106",
+        "in_reply_to_user_id": "1796937387899064320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017823629669806260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CleverFf050755 咪咪咪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796937387899064320",
+        "conversation_id": "2017685469086302715",
+        "created_at": "2026-02-01T04:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T05:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017823629669806260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886054681635704832",
+              "start": 0,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017823629669806260",
+        "in_reply_to_user_id": "1886054681635704832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017685469086302715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Manglesuki 摸摸🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X 凯越450RR｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015477358627852288/p8pWpyfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 80,
+          "like_count": 368,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 341
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。妈妈@Akinoyo_desu  \n提问盒：https://t.co/ZSBub0L9dM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "Akinoyo_desu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/texas96541",
+                "end": 74,
+                "expanded_url": "https://ngl.link/texas96541",
+                "start": 51,
+                "url": "https://t.co/ZSBub0L9dM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hSuwLZ"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造区A3车间",
+        "name": "Texas#缄默",
+        "pinned_tweet_id": "2000592634600149206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009457486680760321/2cLUiZf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 264,
+          "like_count": 203,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 2213
+        },
+        "url": "https://t.co/T0F6hSuwLZ",
+        "username": "CleverFf050755",
+        "verified": false
+      }
+    ]
+  }
+}

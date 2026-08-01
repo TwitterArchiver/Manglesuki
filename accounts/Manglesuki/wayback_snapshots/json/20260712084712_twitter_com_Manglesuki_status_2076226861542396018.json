@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "2076224852500021645",
+    "created_at": "2026-07-12T08:47:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T09:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076226861542396018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1934304781457321984",
+          "start": 0,
+          "username": "v1v1_seCT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076226861542396018",
+    "in_reply_to_user_id": "1934304781457321984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076224852500021645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@v1v1_seCT 美丽宝宝🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076224843268386816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNA7fqDacAAoZnL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "2076224852500021645",
+        "created_at": "2026-07-12T08:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076226861542396018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1934304781457321984",
+              "start": 0,
+              "username": "v1v1_seCT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076226861542396018",
+        "in_reply_to_user_id": "1934304781457321984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076224852500021645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@v1v1_seCT 美丽宝宝🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076224843268386816"
+          ]
+        },
+        "author_id": "1934304781457321984",
+        "conversation_id": "2076224852500021645",
+        "created_at": "2026-07-12T08:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076224852500021645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n85Mc1Kyy4",
+              "end": 40,
+              "expanded_url": "https://x.com/v1v1_seCT/status/2076224852500021645/photo/1",
+              "media_key": "3_2076224843268386816",
+              "start": 17,
+              "url": "https://t.co/n85Mc1Kyy4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076224852500021645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次给理发师授课但效果意外不错 https://t.co/n85Mc1Kyy4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜泛性恋｜药物百科wiki主原@yaowubaike现@kenrobbcrazyy｜边缘型BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "yaowubaike"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "kenrobbcrazyy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87QHvr"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015477358627852288/p8pWpyfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 110,
+          "like_count": 547,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 498
+        },
+        "url": "https://t.co/iv2t87QHvr",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T17:40:05.000Z",
+        "description": "恐怖文学/碎碎念/bpd&分离性障碍/非二元泛性恋/对不友好的人会拉黑 136/198/520🚪",
+        "id": "1934304781457321984",
+        "location": "302RooM",
+        "name": "虚空活切片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934305655491579904/oTvd0dDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 49,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "v1v1_seCT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1996632430036635741",
+    "created_at": "2025-12-27T09:51:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T10:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004852523816112338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1448999690272268295",
+          "start": 0,
+          "username": "Prushka_OvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004852523816112338",
+    "in_reply_to_user_id": "1448999690272268295",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004817979247415511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Prushka_OvO 不告诉你嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1996632430036635741",
+        "created_at": "2025-12-27T09:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T10:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004852523816112338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1448999690272268295",
+              "start": 0,
+              "username": "Prushka_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004852523816112338",
+        "in_reply_to_user_id": "1448999690272268295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004817979247415511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prushka_OvO 不告诉你嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448999690272268295",
+        "conversation_id": "1996632430036635741",
+        "created_at": "2025-12-27T07:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T08:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004817979247415511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886054681635704832",
+              "start": 0,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004817979247415511",
+        "in_reply_to_user_id": "1886054681635704832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996632430036635741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Manglesuki 你们巴比妥哪里买的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X 凯越450RR｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968414430628290560/1MKf2N9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 78,
+          "like_count": 348,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 317
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-15T13:10:29.000Z",
+        "description": "mtf/ les/ 天津/ 世界在这里开始",
+        "id": "1448999690272268295",
+        "name": "月涟🍥",
+        "pinned_tweet_id": "1989908499141464131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776147587726532608/PDRPZmXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 398,
+          "like_count": 6779,
+          "listed_count": 1,
+          "media_count": 369,
+          "tweet_count": 6068
+        },
+        "username": "Prushka_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

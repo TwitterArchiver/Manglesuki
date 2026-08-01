@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1987355540658520064"
+      ]
+    },
+    "author_id": "1886054681635704832",
+    "conversation_id": "1987355571885105564",
+    "created_at": "2025-11-09T03:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T04:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987355571885105564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1272405078683430913",
+          "start": 0,
+          "username": "PaitangOfficial"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TPTvnMX7HG",
+          "end": 47,
+          "expanded_url": "https://x.com/Manglesuki/status/1987355571885105564/video/1",
+          "media_key": "7_1987355540658520064",
+          "start": 24,
+          "url": "https://t.co/TPTvnMX7HG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987355571885105564",
+    "in_reply_to_user_id": "1272405078683430913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@PaitangOfficial 想创死所有人 https://t.co/TPTvnMX7HG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12394,
+        "height": 1278,
+        "media_key": "7_1987355540658520064",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1987355540658520064/pu/img/CBdRe6pn139Ax8jP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1987355540658520064/pu/vid/avc1/320x702/Jt1rPc8aIOVEfr7k.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1987355540658520064/pu/vid/avc1/480x1054/A08-c54RA_Kdmm3-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1987355540658520064/pu/vid/avc1/582x1278/cTqAy0v6xJ3-aVlx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1987355540658520064/pu/pl/eR7FUj0eV_HfffRg.m3u8?tag=12"
+          }
+        ],
+        "width": 582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1987355540658520064"
+          ]
+        },
+        "author_id": "1886054681635704832",
+        "conversation_id": "1987355571885105564",
+        "created_at": "2025-11-09T03:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T04:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987355571885105564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1272405078683430913",
+              "start": 0,
+              "username": "PaitangOfficial"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TPTvnMX7HG",
+              "end": 47,
+              "expanded_url": "https://x.com/Manglesuki/status/1987355571885105564/video/1",
+              "media_key": "7_1987355540658520064",
+              "start": 24,
+              "url": "https://t.co/TPTvnMX7HG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987355571885105564",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial 想创死所有人 https://t.co/TPTvnMX7HG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/机车ADV车主｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968414430628290560/1MKf2N9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 65,
+          "like_count": 276,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 219
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "Biohacker/认知提升剂 （nootropics）X/ADHD 专注商品/推特第二大促智商 “本研究化合物仅供实验室研究使用，严禁用于人体和动物” \n\n客服 @paipaipaitang ⚠️TG客服已死 不要联系⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "paipaipaitang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqNEYk"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "下ネタ〇 |病み垢|不登校|",
+        "name": "☯️🧬無極 利他林和专注达",
+        "pinned_tweet_id": "1903330051837530420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985270408904376320/SHUUETVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9833,
+          "following_count": 542,
+          "like_count": 7991,
+          "listed_count": 27,
+          "media_count": 1636,
+          "tweet_count": 13673
+        },
+        "url": "https://t.co/r6ojtqNEYk",
+        "username": "PaitangOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

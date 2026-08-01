@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "2074200783822975086",
+    "created_at": "2026-07-07T10:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T11:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074434610285744337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2040300783678410752",
+          "start": 0,
+          "username": "TheFirstKidz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074434610285744337",
+    "in_reply_to_user_id": "2040300783678410752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074282091802726844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheFirstKidz 草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "2074200783822975086",
+        "created_at": "2026-07-07T10:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074434610285744337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2040300783678410752",
+              "start": 0,
+              "username": "TheFirstKidz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074434610285744337",
+        "in_reply_to_user_id": "2040300783678410752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074282091802726844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheFirstKidz 草"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040300783678410752",
+        "conversation_id": "2074200783822975086",
+        "created_at": "2026-07-06T23:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T00:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074282091802726844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886054681635704832",
+              "start": 0,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074282091802726844",
+        "in_reply_to_user_id": "1886054681635704832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074200783822975086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Manglesuki 我操掰断了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科wiki主@yaowubaike｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "yaowubaike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87QHvr"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015477358627852288/p8pWpyfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 106,
+          "like_count": 530,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 490
+        },
+        "url": "https://t.co/iv2t87QHvr",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T05:30:49.000Z",
+        "description": "前世@keaiiea\n🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "keaiiea"
+              }
+            ]
+          }
+        },
+        "id": "2040300783678410752",
+        "location": "千葉 浦安市",
+        "name": "Jonas三世",
+        "pinned_tweet_id": "2074128196937863225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074116186527404032/KdlCGOlC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 212,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "TheFirstKidz",
+        "verified": false
+      }
+    ]
+  }
+}

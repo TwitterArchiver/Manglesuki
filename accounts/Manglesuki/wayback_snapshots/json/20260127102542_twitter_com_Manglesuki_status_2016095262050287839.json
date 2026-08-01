@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016095259139411968"
+      ]
+    },
+    "author_id": "1886054681635704832",
+    "conversation_id": "2015945187927941324",
+    "created_at": "2026-01-27T10:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T11:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016095262050287839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1796937387899064320",
+          "start": 0,
+          "username": "CleverFf050755"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XShXWLiRow",
+          "end": 46,
+          "expanded_url": "https://x.com/Manglesuki/status/2016095262050287839/photo/1",
+          "media_key": "3_2016095259139411968",
+          "start": 23,
+          "url": "https://t.co/XShXWLiRow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016095262050287839",
+    "in_reply_to_user_id": "1796937387899064320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016020119705825448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CleverFf050755 很牛逼的体验 https://t.co/XShXWLiRow"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1702,
+        "media_key": "3_2016095259139411968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_qb9NpakAA3guw.jpg",
+        "width": 1184
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016095259139411968"
+          ]
+        },
+        "author_id": "1886054681635704832",
+        "conversation_id": "2015945187927941324",
+        "created_at": "2026-01-27T10:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T11:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016095262050287839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1796937387899064320",
+              "start": 0,
+              "username": "CleverFf050755"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XShXWLiRow",
+              "end": 46,
+              "expanded_url": "https://x.com/Manglesuki/status/2016095262050287839/photo/1",
+              "media_key": "3_2016095259139411968",
+              "start": 23,
+              "url": "https://t.co/XShXWLiRow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016095262050287839",
+        "in_reply_to_user_id": "1796937387899064320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016020119705825448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CleverFf050755 很牛逼的体验 https://t.co/XShXWLiRow"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796937387899064320",
+        "conversation_id": "2015945187927941324",
+        "created_at": "2026-01-27T05:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T06:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016020119705825448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886054681635704832",
+              "start": 0,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016020119705825448",
+        "in_reply_to_user_id": "1886054681635704832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015945187927941324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Manglesuki 怎么样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X 凯越450RR｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015477358627852288/p8pWpyfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 80,
+          "like_count": 358,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 331
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。\n提问盒：https://t.co/ZSBub0KBoe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/texas96541",
+                "end": 57,
+                "expanded_url": "https://ngl.link/texas96541",
+                "start": 34,
+                "url": "https://t.co/ZSBub0KBoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hStYWr"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造区A3车间",
+        "name": "Texas#缄默",
+        "pinned_tweet_id": "2000592634600149206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009457486680760321/2cLUiZf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 263,
+          "like_count": 196,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 2160
+        },
+        "url": "https://t.co/T0F6hStYWr",
+        "username": "CleverFf050755",
+        "verified": false
+      }
+    ]
+  }
+}

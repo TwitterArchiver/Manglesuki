@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915425230983749637"
+      ]
+    },
+    "author_id": "1886054681635704832",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1915425233970040937",
+    "created_at": "2025-04-24T15:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T16:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915425233970040937"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uXkm6VqCdu",
+          "end": 32,
+          "expanded_url": "https://x.com/Manglesuki/status/1915425233970040937/photo/1",
+          "media_key": "3_1915425230983749637",
+          "start": 9,
+          "url": "https://t.co/uXkm6VqCdu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915425233970040937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "，，o多进医院了 https://t.co/uXkm6VqCdu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1915425230983749637",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpT1GWabYAUw6il.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915425230983749637"
+          ]
+        },
+        "author_id": "1886054681635704832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1915425233970040937",
+        "created_at": "2025-04-24T15:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T16:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915425233970040937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uXkm6VqCdu",
+              "end": 32,
+              "expanded_url": "https://x.com/Manglesuki/status/1915425233970040937/photo/1",
+              "media_key": "3_1915425230983749637",
+              "start": 9,
+              "url": "https://t.co/uXkm6VqCdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915425233970040937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "，，o多进医院了 https://t.co/uXkm6VqCdu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是owl/小鸮 女生 电音/调酒/插画/爬宠/游戏/cos  170cm/48kg\n请找我玩！",
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1908551051642610156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886054874858872832/SmNbn5fb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 42,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 40
+        },
+        "username": "Manglesuki",
+        "verified": false
+      }
+    ]
+  }
+}

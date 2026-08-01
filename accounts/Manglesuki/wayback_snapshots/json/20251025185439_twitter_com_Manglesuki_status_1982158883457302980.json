@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1981927635547775094",
+    "created_at": "2025-10-25T18:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T19:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982158883457302980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1327197298930028544",
+          "start": 0,
+          "username": "un_krvy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982158883457302980",
+    "in_reply_to_user_id": "1327197298930028544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982144852348309968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@un_krvy 我吃着也没什么正面效果，反倒副作用很强，应该跟体质有关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1981927635547775094",
+        "created_at": "2025-10-25T18:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T19:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982158883457302980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1327197298930028544",
+              "start": 0,
+              "username": "un_krvy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982158883457302980",
+        "in_reply_to_user_id": "1327197298930028544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982144852348309968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@un_krvy 我吃着也没什么正面效果，反倒副作用很强，应该跟体质有关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1327197298930028544",
+        "conversation_id": "1981927635547775094",
+        "created_at": "2025-10-25T17:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T18:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982144852348309968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886054681635704832",
+              "start": 0,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982144852348309968",
+        "in_reply_to_user_id": "1886054681635704832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981927635547775094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Manglesuki 我吃这个怎么没效呢..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/机车ADV车主｜170cm/48kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968414430628290560/1MKf2N9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 61,
+          "like_count": 218,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 164
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-13T10:31:21.000Z",
+        "description": "krvy|想要互fo|试图逃离od|",
+        "id": "1327197298930028544",
+        "location": "Macragge",
+        "name": "krvy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974087515108982784/YHCr6dZy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 173,
+          "like_count": 5232,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 615
+        },
+        "username": "un_krvy",
+        "verified": false
+      }
+    ]
+  }
+}

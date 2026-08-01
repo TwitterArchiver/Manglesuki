@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1963899120839459267",
+    "created_at": "2025-09-05T09:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T10:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963899120839459267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1963867793776070656",
+          "start": 3,
+          "username": "drug_artist1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963899120839459267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963877436057108755",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @drug_artist1: 我是沐雨，药物百科wiki主，秽土转生了，记住这个名字，本人算半个专业人士，自认为精通药学，精神药理学，药代动力学，精神病学，药物分析学，成瘾医学，以及一些简单的医学基础，我可以提供用药咨询及指导，精神病治疗咨询及指导，有需要请联系我，相信我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1963899120839459267",
+        "created_at": "2025-09-05T09:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T10:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963899120839459267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1963867793776070656",
+              "start": 3,
+              "username": "drug_artist1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963899120839459267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963877436057108755",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @drug_artist1: 我是沐雨，药物百科wiki主，秽土转生了，记住这个名字，本人算半个专业人士，自认为精通药学，精神药理学，药代动力学，精神病学，药物分析学，成瘾医学，以及一些简单的医学基础，我可以提供用药咨询及指导，精神病治疗咨询及指导，有需要请联系我，相信我…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963867793776070656",
+        "conversation_id": "1963877436057108755",
+        "created_at": "2025-09-05T08:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T09:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963877436057108755"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963877436057108755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我是沐雨，药物百科wiki主，秽土转生了，记住这个名字，本人算半个专业人士，自认为精通药学，精神药理学，药代动力学，精神病学，药物分析学，成瘾医学，以及一些简单的医学基础，我可以提供用药咨询及指导，精神病治疗咨询及指导，有需要请联系我，相信我的专业性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜女生｜药物百科小小编辑人员｜双相+边缘型人格障碍｜DJ/调酒师/王者代练/底层画画的/coser/机车ADV车主｜170cm/48kg｜请找我玩！",
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963352402972872704/wGuIt4SD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 63,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 96
+        },
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T07:32:46.000Z",
+        "description": "药物百科wiki主（秽土转生版）\n投稿请私信我\n愿每一位药物滥用者都能脱离深渊\n提供药物咨询\nim crazy",
+        "id": "1963867793776070656",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨（秽土转生）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963871523082735616/Bl-ILJS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 17,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "drug_artist1",
+        "verified": false
+      }
+    ]
+  }
+}

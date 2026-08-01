@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1943542324396724389",
+    "created_at": "2025-07-11T05:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T06:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943542324396724389"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1943542324396724389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "请谨慎联用布洛芬和SSRI或SRI抗抑郁药，特别是右美沙芬。\nSSRIs 通过阻断血小板对血清素的摄取，降低血小板内5-HT浓度。  \n血小板活化需要 5-HT 作为信号分子，其减少会削弱血小板聚集能力。  \n类似布洛芬（NSAIDs）抑制COX-1减少血栓素A₂（TXA₂）的作用，两者协同抑制血小板功能。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1943542324396724389",
+        "created_at": "2025-07-11T05:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T06:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943542324396724389"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943542324396724389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请谨慎联用布洛芬和SSRI或SRI抗抑郁药，特别是右美沙芬。\nSSRIs 通过阻断血小板对血清素的摄取，降低血小板内5-HT浓度。  \n血小板活化需要 5-HT 作为信号分子，其减少会削弱血小板聚集能力。  \n类似布洛芬（NSAIDs）抑制COX-1减少血栓素A₂（TXA₂）的作用，两者协同抑制血小板功能。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮 女生 养了只渡鸦叫Voxx 电音/调酒/插画/爬宠/游戏/cos  170cm/48kg\n请找我玩！",
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1923386059213181248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886054874858872832/SmNbn5fb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 48,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 67
+        },
+        "username": "Manglesuki",
+        "verified": false
+      }
+    ]
+  }
+}

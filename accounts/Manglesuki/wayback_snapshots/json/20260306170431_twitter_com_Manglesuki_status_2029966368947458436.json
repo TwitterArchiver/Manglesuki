@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2029966328111702016"
+      ]
+    },
+    "author_id": "1886054681635704832",
+    "conversation_id": "2029966368947458436",
+    "created_at": "2026-03-06T17:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T18:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029966368947458436"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IsYvhoq4sv",
+          "end": 30,
+          "expanded_url": "https://x.com/Manglesuki/status/2029966368947458436/video/1",
+          "media_key": "7_2029966328111702016",
+          "start": 7,
+          "url": "https://t.co/IsYvhoq4sv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029966368947458436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又他妈骨折了 https://t.co/IsYvhoq4sv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5334,
+        "height": 1280,
+        "media_key": "7_2029966328111702016",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2029966328111702016/pu/img/p9ILDvLnxJqot5j-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2029966328111702016/pu/vid/avc1/320x568/OnyRJBCu0jGFN-Iv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2029966328111702016/pu/vid/avc1/480x852/JOIHPLRFD_p1C0Ic.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2029966328111702016/pu/vid/avc1/720x1280/FBY_f2jZpx7EE96m.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2029966328111702016/pu/pl/DjQ1HpQ3JK6Ft85B.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2029966328111702016"
+          ]
+        },
+        "author_id": "1886054681635704832",
+        "conversation_id": "2029966368947458436",
+        "created_at": "2026-03-06T17:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T18:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029966368947458436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IsYvhoq4sv",
+              "end": 30,
+              "expanded_url": "https://x.com/Manglesuki/status/2029966368947458436/video/1",
+              "media_key": "7_2029966328111702016",
+              "start": 7,
+              "url": "https://t.co/IsYvhoq4sv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029966368947458436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又他妈骨折了 https://t.co/IsYvhoq4sv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X 凯越450RR｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015477358627852288/p8pWpyfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 85,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 350
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      }
+    ]
+  }
+}

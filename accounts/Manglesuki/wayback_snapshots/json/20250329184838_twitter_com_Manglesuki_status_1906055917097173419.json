@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896755375191281664"
+      ],
+      "media_source_tweet_id": [
+        "1896755378937024888"
+      ]
+    },
+    "author_id": "1886054681635704832",
+    "conversation_id": "1906055917097173419",
+    "created_at": "2025-03-29T18:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T19:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906055917097173419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1372407818712711168",
+          "start": 3,
+          "username": "stardripiv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FpLDR6gjjs",
+          "end": 39,
+          "expanded_url": "https://x.com/stardripiv/status/1896755378937024888/photo/1",
+          "media_key": "3_1896755375191281664",
+          "start": 16,
+          "url": "https://t.co/FpLDR6gjjs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906055917097173419",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 576
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896755378937024888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stardripiv: https://t.co/FpLDR6gjjs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_1896755375191281664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlKg9twW0AA-RNP.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896755375191281664"
+          ],
+          "media_source_tweet_id": [
+            "1896755378937024888"
+          ]
+        },
+        "author_id": "1886054681635704832",
+        "conversation_id": "1906055917097173419",
+        "created_at": "2025-03-29T18:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T19:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906055917097173419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1372407818712711168",
+              "start": 3,
+              "username": "stardripiv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FpLDR6gjjs",
+              "end": 39,
+              "expanded_url": "https://x.com/stardripiv/status/1896755378937024888/photo/1",
+              "media_key": "3_1896755375191281664",
+              "start": 16,
+              "url": "https://t.co/FpLDR6gjjs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906055917097173419",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 576
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896755378937024888",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stardripiv: https://t.co/FpLDR6gjjs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896755375191281664"
+          ]
+        },
+        "author_id": "1372407818712711168",
+        "conversation_id": "1896755378937024888",
+        "created_at": "2025-03-04T02:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T03:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896755378937024888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FpLDR6gjjs",
+              "end": 23,
+              "expanded_url": "https://x.com/stardripiv/status/1896755378937024888/photo/1",
+              "media_key": "3_1896755375191281664",
+              "start": 0,
+              "url": "https://t.co/FpLDR6gjjs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896755378937024888",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 284,
+          "impression_count": 119941,
+          "like_count": 2663,
+          "quote_count": 26,
+          "reply_count": 4,
+          "retweet_count": 576
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FpLDR6gjjs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是owl/小鸮 泛性恋 \n电音/调酒/插画/爬宠 170/48kg\n请喜欢我！",
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886054874858872832/SmNbn5fb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 12,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-18T04:41:48.000Z",
+        "description": "confused , floral , and odd",
+        "id": "1372407818712711168",
+        "location": "𝓛’𝓼 ೀ ",
+        "name": "ੈ✩‧₊˚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875334948648824832/HraeWmni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51973,
+          "following_count": 119,
+          "like_count": 5708,
+          "listed_count": 0,
+          "media_count": 2263,
+          "tweet_count": 3305
+        },
+        "username": "stardripiv",
+        "verified": false
+      }
+    ]
+  }
+}

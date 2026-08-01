@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916531803831328768"
+      ]
+    },
+    "author_id": "1886054681635704832",
+    "conversation_id": "1916531807626932690",
+    "created_at": "2025-04-27T16:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T17:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916531807626932690"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fwZPKvwPfK",
+          "end": 23,
+          "expanded_url": "https://x.com/Manglesuki/status/1916531807626932690/photo/1",
+          "media_key": "3_1916531803831328768",
+          "start": 0,
+          "url": "https://t.co/fwZPKvwPfK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916531807626932690",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/fwZPKvwPfK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916531803831328768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpjjhXga4AAlxki.jpg",
+        "width": 1749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916531803831328768"
+          ]
+        },
+        "author_id": "1886054681635704832",
+        "conversation_id": "1916531807626932690",
+        "created_at": "2025-04-27T16:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T17:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916531807626932690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwZPKvwPfK",
+              "end": 23,
+              "expanded_url": "https://x.com/Manglesuki/status/1916531807626932690/photo/1",
+              "media_key": "3_1916531803831328768",
+              "start": 0,
+              "url": "https://t.co/fwZPKvwPfK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916531807626932690",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fwZPKvwPfK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是owl/小鸮 女生 电音/调酒/插画/爬宠/游戏/cos  170cm/48kg\n请找我玩！",
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1908551051642610156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886054874858872832/SmNbn5fb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 44,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 46
+        },
+        "username": "Manglesuki",
+        "verified": false
+      }
+    ]
+  }
+}

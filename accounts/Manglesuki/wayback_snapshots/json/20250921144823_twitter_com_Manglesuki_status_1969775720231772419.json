@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1969775663730266112"
+      ]
+    },
+    "author_id": "1886054681635704832",
+    "conversation_id": "1969775720231772419",
+    "created_at": "2025-09-21T14:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T15:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969775720231772419"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AXNOlmXidX",
+          "end": 39,
+          "expanded_url": "https://x.com/Manglesuki/status/1969775720231772419/video/1",
+          "media_key": "7_1969775663730266112",
+          "start": 16,
+          "url": "https://t.co/AXNOlmXidX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969775720231772419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本鸮也饿了没有吃的给你，小可怜 https://t.co/AXNOlmXidX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13056,
+        "height": 1280,
+        "media_key": "7_1969775663730266112",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1969775663730266112/pu/img/P0yCLgnOXizJZUgX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1969775663730266112/pu/vid/avc1/320x568/JYKxMlNoWf7TsIIY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1969775663730266112/pu/vid/avc1/480x852/j1F-0cxClHfjMc2P.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1969775663730266112/pu/vid/avc1/720x1280/_fsXKQp9-Hhv75xi.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1969775663730266112/pu/pl/HJBnUeqwF5GVwmUi.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1969775663730266112"
+          ]
+        },
+        "author_id": "1886054681635704832",
+        "conversation_id": "1969775720231772419",
+        "created_at": "2025-09-21T14:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T15:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969775720231772419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AXNOlmXidX",
+              "end": 39,
+              "expanded_url": "https://x.com/Manglesuki/status/1969775720231772419/video/1",
+              "media_key": "7_1969775663730266112",
+              "start": 16,
+              "url": "https://t.co/AXNOlmXidX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969775720231772419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本鸮也饿了没有吃的给你，小可怜 https://t.co/AXNOlmXidX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜女生｜药物百科小小编辑人员｜双相+边缘型人格障碍｜DJ/调酒师/王者代练/底层画画的/coser/机车ADV车主｜170cm/48kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87QHvr"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968414430628290560/1MKf2N9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 59,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 134
+        },
+        "url": "https://t.co/iv2t87QHvr",
+        "username": "Manglesuki",
+        "verified": false
+      }
+    ]
+  }
+}

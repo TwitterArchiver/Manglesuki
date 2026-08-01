@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073718737321250816"
+      ]
+    },
+    "author_id": "1886054681635704832",
+    "conversation_id": "2073718747727355970",
+    "created_at": "2026-07-05T10:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T11:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073718747727355970"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wiCQ3VQU7G",
+          "end": 54,
+          "expanded_url": "https://x.com/Manglesuki/status/2073718747727355970/photo/1",
+          "media_key": "3_2073718737321250816",
+          "start": 31,
+          "url": "https://t.co/wiCQ3VQU7G"
+        },
+        {
+          "display_url": "x.com/Ne1lHeyw00d/st…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/Ne1lHeyw00d/status/2073289516564267155",
+          "start": 55,
+          "url": "https://t.co/u9EiWTXzbf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073718747727355970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073289516564267155",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "兄弟你有点抽象，然后还有你都给我开了看不到俺户籍地是荷兰人吗 https://t.co/wiCQ3VQU7G https://t.co/u9EiWTXzbf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1328,
+        "media_key": "3_2073718737321250816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdUNF4a0AAp1Kl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073718737321250816"
+          ]
+        },
+        "author_id": "1886054681635704832",
+        "conversation_id": "2073718747727355970",
+        "created_at": "2026-07-05T10:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073718747727355970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wiCQ3VQU7G",
+              "end": 54,
+              "expanded_url": "https://x.com/Manglesuki/status/2073718747727355970/photo/1",
+              "media_key": "3_2073718737321250816",
+              "start": 31,
+              "url": "https://t.co/wiCQ3VQU7G"
+            },
+            {
+              "display_url": "x.com/Ne1lHeyw00d/st…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/Ne1lHeyw00d/status/2073289516564267155",
+              "start": 55,
+              "url": "https://t.co/u9EiWTXzbf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073718747727355970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073289516564267155",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "兄弟你有点抽象，然后还有你都给我开了看不到俺户籍地是荷兰人吗 https://t.co/wiCQ3VQU7G https://t.co/u9EiWTXzbf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "68868234",
+        "conversation_id": "2073289101751836682",
+        "created_at": "2026-07-04T06:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073289516564267155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073289516564267155",
+        "in_reply_to_user_id": "68868234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073289101751836682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操，我天都塌了，原来辛佳缘真的这么好看。我一直以为他的那些土都是p的，结果真的长成这个逼样了，我操，山东人竟然还有白人血统。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科wiki主@yaowubaike｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "yaowubaike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87QHvr"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015477358627852288/p8pWpyfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 102,
+          "like_count": 519,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 483
+        },
+        "url": "https://t.co/iv2t87QHvr",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-26T01:46:00.000Z",
+        "description": "流浪汉族 接受付费咨询 药理学 用药咨询 用药建议 毒理学、药理学、精神疾病学相关研究  前工人吧吧主 结晶化捧杀者 键政荣誉证书获得者 有无犯罪记录 是 目前在海外研究伊博格草对人类大脑清空成瘾性的视线   \n攒钱起诉派出所中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/babycost",
+                "end": 23,
+                "expanded_url": "http://t.me/babycost",
+                "start": 0,
+                "url": "https://t.co/a0nGHzpVaD"
+              }
+            ]
+          }
+        },
+        "id": "68868234",
+        "location": "ip：外国",
+        "name": "The Red Devils（上访中）",
+        "pinned_tweet_id": "2062591615802474584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070081285587152896/RvUcBq3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 33,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 537
+        },
+        "url": "https://t.co/a0nGHzpVaD",
+        "username": "Ne1lHeyw00d",
+        "verified": false
+      }
+    ]
+  }
+}

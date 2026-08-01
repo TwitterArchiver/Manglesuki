@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "1989404966864470221",
+    "created_at": "2025-11-15T08:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T09:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989613233595203846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1900292574486945797",
+          "start": 0,
+          "username": "R0ttenb1oo0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989613233595203846",
+    "in_reply_to_user_id": "1900292574486945797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989572962190856502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R0ttenb1oo0v0 不可以哈不允许💢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1989404966864470221",
+        "created_at": "2025-11-15T08:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T09:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989613233595203846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1900292574486945797",
+              "start": 0,
+              "username": "R0ttenb1oo0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989613233595203846",
+        "in_reply_to_user_id": "1900292574486945797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989572962190856502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R0ttenb1oo0v0 不可以哈不允许💢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900292574486945797",
+        "conversation_id": "1989404966864470221",
+        "created_at": "2025-11-15T05:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T06:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989572962190856502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886054681635704832",
+              "start": 0,
+              "username": "Manglesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989572962190856502",
+        "in_reply_to_user_id": "1886054681635704832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989484202098921945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Manglesuki 如果沐雨走了，我会陪他一起的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/ADV摩托车主｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968414430628290560/1MKf2N9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 64,
+          "like_count": 291,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 239
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T21:07:23.000Z",
+        "description": "别鸡吧骚扰我你知道的",
+        "id": "1900292574486945797",
+        "name": "YvngBunnyNEverBrokeagain",
+        "pinned_tweet_id": "1927328492049338652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988209399698223104/q3Rij0di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 71,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 235
+        },
+        "username": "R0ttenb1oo0v0",
+        "verified": false
+      }
+    ]
+  }
+}

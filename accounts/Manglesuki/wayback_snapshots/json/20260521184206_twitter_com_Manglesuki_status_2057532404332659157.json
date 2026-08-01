@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886054681635704832",
+    "conversation_id": "2057532404332659157",
+    "created_at": "2026-05-21T18:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T19:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057532404332659157"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057532404332659157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“你必须培养一些爱好，不要遥远空洞的目标而是实在甚至庸俗的吃喝拉撒。必须一觉醒来很清楚至少今天还能做什么。去楼下最辣的粉店吃早饭，去给窗台上的盆栽浇水，去追一集刚更新的新番，去找一个知心老友唠嗑。你必须积攒这种微小的期待和快乐，这样才不会被遥不可及的梦和无法掌控的爱给拖垮。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "2057532404332659157",
+        "created_at": "2026-05-21T18:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057532404332659157"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057532404332659157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“你必须培养一些爱好，不要遥远空洞的目标而是实在甚至庸俗的吃喝拉撒。必须一觉醒来很清楚至少今天还能做什么。去楼下最辣的粉店吃早饭，去给窗台上的盆栽浇水，去追一集刚更新的新番，去找一个知心老友唠嗑。你必须积攒这种微小的期待和快乐，这样才不会被遥不可及的梦和无法掌控的爱给拖垮。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X 凯越450RR｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87QHvr"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015477358627852288/p8pWpyfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 103,
+          "like_count": 513,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 467
+        },
+        "url": "https://t.co/iv2t87QHvr",
+        "username": "Manglesuki",
+        "verified": false
+      }
+    ]
+  }
+}
