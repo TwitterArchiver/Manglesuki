@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089597253388472321"
+      ]
+    },
+    "author_id": "1886054681635704832",
+    "conversation_id": "2089597288620634363",
+    "created_at": "2026-08-18T06:16:31.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T07:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089597288620634363"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KsV4MOAfWj",
+          "end": 27,
+          "expanded_url": "https://x.com/Manglesuki/status/2089597288620634363/video/1",
+          "media_key": "13_2089597253388472321",
+          "start": 4,
+          "url": "https://t.co/KsV4MOAfWj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089597288620634363",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2089597253388472321"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "要干嘛 https://t.co/KsV4MOAfWj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10701,
+        "height": 1280,
+        "media_key": "13_2089597253388472321",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089597253388472321/img/7YVEdU1ZQYyprkcT.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089597253388472321/vid/avc1/320x568/kZXwr0ssaKeFrlGa.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089597253388472321/vid/avc1/480x852/1ZzEhacGlZzv6cQ-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089597253388472321/vid/avc1/720x1280/xBpgE2epl61tVhTg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089597253388472321/pl/MBGH53_PC69SJ1Mt.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089597253388472321"
+          ]
+        },
+        "author_id": "1886054681635704832",
+        "conversation_id": "2089597288620634363",
+        "created_at": "2026-08-18T06:16:31.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T07:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089597288620634363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KsV4MOAfWj",
+              "end": 27,
+              "expanded_url": "https://x.com/Manglesuki/status/2089597288620634363/video/1",
+              "media_key": "13_2089597253388472321",
+              "start": 4,
+              "url": "https://t.co/KsV4MOAfWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089597288620634363",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089597253388472321"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要干嘛 https://t.co/KsV4MOAfWj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "GB",
+              "full_name": "City of London, England, United Kingdom",
+              "geo": {
+                "coordinates": [
+                  -0.09184,
+                  51.51279
+                ],
+                "type": "Point"
+              },
+              "locality": "City of London",
+              "region": "England",
+              "sub_region": "Greater London"
+            }
+          ]
+        },
+        "description": "我是Onyxx/小鸮｜爱人@TUTU16016｜ENTP｜女生｜泛性恋｜药物百科wiki主@yaowubaike｜鸦鸦叫Gavin｜边缘型BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "TUTU16016"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "yaowubaike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87QHvr"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "is_identity_verified": false,
+        "location": "Night city",
+        "most_recent_tweet_id": "2089597288620634363",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886054681635704832/1784149743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077495322423738368/CahYMGJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 109,
+          "like_count": 612,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 546
+        },
+        "url": "https://t.co/iv2t87QHvr",
+        "username": "Manglesuki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
